@@ -1,0 +1,368 @@
+﻿CVE_ZM,ZM,CVE_MUN,MUN,POB,MC,CF,DIST_CC,PRM_TMUN,PRM_TMUNC,PRM_TOTROMUN,PEM_RMUN,PEM_TMUNC,PEM_ROTROMUN,PACNA,PACNPRIM,DMU,DZC-ZM,PZC-ZM,PNDUyOT,TIPO_MUN,AÑO
+1,Zona metropolitana de Aguascalientes,1001,Aguascalientes,797010,1,1,0,97,0.8,2.2,93.5,2.3,4.2,*,97.5,108.2,1,1,1,1,2010
+1,Zona metropolitana de Aguascalientes,1005,Jesús María,99590,1,1,0,72.6,23.3,4.1,85.1,9.2,5.7,*,94.4,75,1,1,1,1,2010
+1,Zona metropolitana de Aguascalientes,1011,San Francisco de los Romo,35769,0,0,13,63.8,28.7,7.6,61,15.2,23.9,*,90.8,83.3,1,1,0,3,2010
+3,Zona metropolitana de Mexicali,2002,Mexicali,936826,1,0,0,99.5,0,0.5,99.1,0,0.9,*,93,59.3,n.a.,1,0,1,2010
+2,Zona metropolitana de Tijuana,2003,Tecate,101079,0,0,21.8,97.3,2,0.7,95.8,2.7,1.5,*,98,47.4,1,1,0,3,2010
+2,Zona metropolitana de Tijuana,2004,Tijuana,1559683,1,0,0,98.6,0,1.4,98.6,0,1.4,*,99.5,89.3,1,1,1,1,2010
+2,Zona metropolitana de Tijuana,2005,Playas de Rosarito,90668,0,0,2.5,86.7,12,1.2,88.5,10.4,1.1,*,97.9,38.4,1,1,1,2,2010
+5,Zona metropolitana de Saltillo,5004,Arteaga,22544,0,0,1.5,86.9,11.9,1.2,74.3,21.8,3.9,*,62.2,25.3,1,1,1,3,2010
+6,Zona metropolitana de Monclova-Frontera,5006,Castaños,25892,0,0,2.5,67.3,29.6,3.1,84.7,14,1.3,*,92.5,28.2,1,1,1,2,2010
+6,Zona metropolitana de Monclova-Frontera,5010,Frontera,75215,1,1,0,72.4,25.6,2,73.2,16.6,10.2,*,97.1,56.6,1,1,1,1,2010
+4,Zona metropolitana de La Laguna,5017,Matamoros,107160,1,1,0,77.4,20.5,2.1,94.6,3.2,2.2,*,72.7,58.8,0,1,1,1,2010
+6,Zona metropolitana de Monclova-Frontera,5018,Monclova,216206,1,1,0,91.8,5.1,3.1,86.9,7.5,5.6,*,99.3,55.6,1,1,1,1,2010
+7,Zona metropolitana de Piedras Negras,5022,Nava,27928,1,1,0,81.2,13.4,5.4,66.5,19,14.6,*,93.7,38.6,0,1,0,1,2010
+7,Zona metropolitana de Piedras Negras,5025,Piedras Negras,152806,1,1,0,94.9,3.6,1.5,94.4,2.1,3.6,*,98.4,59.4,0,1,0,1,2010
+5,Zona metropolitana de Saltillo,5027,Ramos Arizpe,75461,1,1,0,82.7,14.6,2.7,49.4,49.2,1.4,*,90.9,71.6,1,1,1,1,2010
+5,Zona metropolitana de Saltillo,5030,Saltillo,725123,1,1,0,89,8.8,2.1,96.5,1.7,1.8,*,97.8,82.9,1,1,1,1,2010
+4,Zona metropolitana de La Laguna,5035,Torreón,639629,1,1,0,92.9,4.3,2.7,89.8,7.8,2.4,*,97.9,81.3,1,1,1,1,2010
+9,Zona metropolitana de Tecomán,6001,Armería,28695,1,1,0,87.1,5.4,7.5,90,2.5,7.5,*,59.4,44.7,0,0,0,1,2010
+8,Zona metropolitana de Colima-Villa de Álvarez,6002,Colima,146904,1,1,0,87.2,6.9,5.9,65.4,25.4,9.2,*,95.6,62.7,1,1,1,1,2010
+8,Zona metropolitana de Colima-Villa de Álvarez,6003,Comala,20888,0,0,1.5,80.3,16.3,3.4,82.4,16.6,1,*,76.2,38.9,1,0,0,2,2010
+8,Zona metropolitana de Colima-Villa de Álvarez,6004,Coquimatlán,19385,0,0,2,71.3,24.7,4,82.9,14.2,2.9,*,64.9,50.1,1,0,0,3,2010
+8,Zona metropolitana de Colima-Villa de Álvarez,6005,Cuauhtémoc,27107,0,0,10.3,77.7,18.1,4.2,89.9,8.2,1.8,*,77.1,39.4,1,0,0,3,2010
+9,Zona metropolitana de Tecomán,6009,Tecomán,112726,1,1,0,95.9,0.7,3.4,92.2,1.4,6.4,*,69.5,69.8,0,0,0,1,2010
+8,Zona metropolitana de Colima-Villa de Álvarez,6010,Villa de Álvarez,119956,1,1,0,50.3,39.7,10,83.9,13.5,2.7,*,96.7,85.3,1,1,1,1,2010
+10,Zona metropolitana de Tuxtla Gutiérrez,7012,Berriozábal,43179,0,0,6,65.9,29.3,4.8,90.2,6.6,3.3,*,82.6,61.9,0,1,0,2,2010
+10,Zona metropolitana de Tuxtla Gutiérrez,7027,Chiapa de Corzo,87603,1,1,0,80.5,16.2,3.3,93.3,4.6,2.1,*,78.6,64.3,0,1,0,1,2010
+10,Zona metropolitana de Tuxtla Gutiérrez,7101,Tuxtla Gutiérrez,553374,1,1,0,94.4,0.5,5.1,89.6,2,8.5,*,98.5,84.9,0,1,0,1,2010
+12,Zona metropolitana de Chihuahua,8002,Aldama,22302,0,0,12.4,82.9,14.7,2.4,91.5,6.9,1.6,*,79.3,47,0,1,1,3,2010
+12,Zona metropolitana de Chihuahua,8004,Aquiles Serdán,10688,0,0,7.3,60.4,37,2.6,93.2,5.7,1.1,*,98.9,49.9,0,1,1,2,2010
+12,Zona metropolitana de Chihuahua,8019,Chihuahua,819543,1,0,0,98.6,0,1.4,97.7,0,2.3,*,98.6,66.5,0,1,1,1,2010
+11,Zona metropolitana de Juárez,8037,Ciudad Juárez,1332131,1,0,0,99.7,0,0.3,99.5,0,0.5,*,99.3,67.9,n.a.,1,1,1,2010
+13,Zona metropolitana del Valle de México,9002,Azcapotzalco,414711,1,1,0,52.2,46.9,1,44.6,53.5,1.9,*,100,189,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9003,Coyoacán,620416,1,1,0,53.7,45.6,0.8,43.7,55.2,1.1,*,99.9,194.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9004,Cuajimalpa,186391,1,1,0,64.7,33.1,2.2,41.6,52.7,5.7,*,99.5,89.5,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9005,Gustavo A. Madero,1185772,1,1,0,64.2,35.1,0.8,67.6,31.1,1.3,*,99.9,200.2,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9006,Iztacalco,384326,1,1,0,49.1,50.1,0.8,51.4,47.7,0.9,*,99.9,210.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9007,Iztapalapa,1815786,1,1,0,62.9,36.5,0.6,72.4,26.1,1.4,*,99.9,215.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9008,Magdalena Contreras,239086,1,1,0,43.8,55.5,0.7,63.4,36.1,0.5,*,99.7,162.3,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9009,Milpa Alta,130582,1,1,0,65.1,34.4,0.5,84.8,14.3,0.9,*,85,47.3,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9010,Álvaro Obregón,727034,1,1,0,59.4,39.8,0.8,54.8,42.7,2.6,*,99.8,193.5,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9011,Tláhuac,360265,1,1,0,56.6,42.9,0.5,75.1,24.2,0.7,*,97.7,135.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9012,Tlalpan,650567,1,1,0,59.2,39.8,0.9,54.9,43.9,1.2,*,98.8,119.9,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9013,Xochimilco,415007,1,1,0,53.9,45.7,0.4,69.2,29.6,1.2,*,96,93.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9014,Benito Juárez,385439,1,1,0,49.7,49.7,0.6,31.9,66.5,1.6,*,99.8,157.1,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9015,Cuauhtémoc,531831,1,1,0,64.6,34.5,1,27,71.6,1.4,*,99.9,215.6,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9016,Miguel Hidalgo,372889,1,1,0,60.3,39,0.7,27.3,70.3,2.4,*,99.7,186.7,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,9017,Venustiano Carranza,430978,1,1,0,53.4,45.8,0.7,44.1,54.7,1.2,*,99.9,209.5,1,1,1,1,2010
+4,Zona metropolitana de La Laguna,10007,Gómez Palacio,327985,1,1,0,89.2,9.8,1,83.3,14.7,2,*,89.8,82.2,1,1,1,1,2010
+4,Zona metropolitana de La Laguna,10012,Lerdo,141043,1,1,0,71.1,26,2.9,88.8,9.8,1.4,*,87.9,52.6,1,1,1,1,2010
+57,Zona metropolitana de Celaya,11007,Celaya,468469,1,0,0,94.8,0,5.2,88,0,12,*,92.4,90.8,1,0,0,1,2010
+57,Zona metropolitana de Celaya,11009,Comonfort,77794,0,0,15.8,72.8,17.8,9.3,96.5,2.1,1.4,*,80.5,47.3,1,0,0,3,2010
+14,Zona metropolitana de León,11020,León,1436480,1,0,0,98.5,0,1.5,96,0,4,*,98.8,129.4,1,0,1,1,2010
+16,Zona metropolitana de Moroleón-Uriangato,11021,Moroleón,49364,1,1,0,87.6,9.1,3.3,76.4,6.7,16.9,*,95.6,69.7,0,1,1,1,2010
+27,Zona metropolitana de La Piedad-Pénjamo,11023,Pénjamo,149936,1,1,0,96,2.5,1.5,96.7,0.8,2.4,*,60.6,52.4,1,0,0,1,2010
+15,Zona metropolitana de San Francisco del Rincón,11025,Purísima del Rincón,68795,1,1,0,75.1,21.7,3.2,87.6,6.8,5.6,*,91.7,58.1,1,1,0,1,2010
+15,Zona metropolitana de San Francisco del Rincón,11031,San Francisco del Rincón,113570,1,1,0,90.8,3.4,5.8,81.4,11.1,7.5,*,88.9,68.7,1,1,0,1,2010
+14,Zona metropolitana de León,11037,Silao,173024,0,0,15.1,80.9,15.3,3.8,83.5,2.3,14.2,*,84.8,79.2,1,0,1,3,2010
+16,Zona metropolitana de Moroleón-Uriangato,11041,Uriangato,59305,1,1,0,92.7,6.1,1.2,88.4,7,4.6,*,93.4,70,0,1,1,1,2010
+57,Zona metropolitana de Celaya,11044,Villagrán,55782,0,0,12.5,72.9,18.6,8.5,77.7,5.8,16.5,*,84.6,78.8,1,0,0,3,2010
+17,Zona metropolitana de Acapulco,12001,Acapulco,789971,1,0,0,98.6,0,1.4,97.7,0,2.3,*,96,100.2,0,1,1,1,2010
+17,Zona metropolitana de Acapulco,12021,Coyuca,73460,0,0,18.2,86.3,11.4,2.3,98,1,1,*,62.9,43.1,0,1,1,3,2010
+20,Zona metropolitana de Tula,13010,Atitalaquia,26904,0,0,6.4,83.1,6.8,10.1,62.4,11.7,25.9,*,92.9,23,1,1,1,2,2010
+20,Zona metropolitana de Tula,13013,Atotonilco,31078,0,0,4.3,74.6,5,20.3,83.1,1.5,15.4,*,96.7,15.1,1,1,1,3,2010
+19,Zona metropolitana de Tulancingo,13016,Cuautepec,54500,1,1,0,82.1,13.7,4.2,93,5.3,1.7,*,76.6,18.8,1,0,0,1,2010
+18,Zona metropolitana de Pachuca,13022,Epazoyucan,13830,0,0,10.4,44.3,48.3,7.4,66.6,6.8,26.7,*,91,15.7,1,1,1,3,2010
+18,Zona metropolitana de Pachuca,13039,Mineral del Monte,13864,0,0,4.2,55,39,6,86.9,7.8,5.2,*,95.2,39.9,1,0,0,2,2010
+18,Zona metropolitana de Pachuca,13048,Pachuca,267862,1,1,0,92.8,1.2,6,65.7,16.3,18,*,99.5,86.4,1,1,1,1,2010
+18,Zona metropolitana de Pachuca,13051,Mineral de la Reforma,127404,1,1,0,42.4,46.9,10.7,90.6,5.3,4.2,*,99.2,83.8,1,1,1,1,2010
+18,Zona metropolitana de Pachuca,13052,San Agustín Tlaxiaca,32057,0,0,8.7,65.1,24.6,10.3,89.9,8,2.2,*,92.1,9.6,1,1,1,3,2010
+19,Zona metropolitana de Tulancingo,13056,Santiago Tulantepec de Lugo Guerrero,33495,1,1,0,58.4,33,8.6,95,3.6,1.4,*,94.4,39,1,0,0,1,2010
+13,Zona metropolitana del Valle de México,13069,Tizayuca,97461,0,0,9.7,81.2,14.8,4,65.1,17.1,17.8,*,97.6,57.5,0,1,1,2,2010
+20,Zona metropolitana de Tula,13070,Tlahuelilpan,17153,0,0,9.8,69.4,8.2,22.4,68.8,1.4,29.8,*,84.7,44.6,1,1,1,3,2010
+20,Zona metropolitana de Tula,13074,Tlaxcoapan,26758,0,0,8.6,68.9,7,24.1,80.4,0.6,19,*,84.8,27.7,1,1,1,3,2010
+20,Zona metropolitana de Tula,13076,Tula de Allende,103919,1,0,0,85.8,0,14.2,75.9,0,24.1,*,89.9,33.9,1,1,1,1,2010
+19,Zona metropolitana de Tulancingo,13077,Tulancingo,151584,1,1,0,92.9,1.2,5.9,82.8,9.7,7.4,*,93.5,76.7,1,0,0,1,2010
+18,Zona metropolitana de Pachuca,13082,Zapotlán,18036,0,0,4.6,74,16.3,9.7,88.5,5.3,6.2,*,94,17.3,1,1,1,3,2010
+18,Zona metropolitana de Pachuca,13083,Zempoala,39143,0,0,14.9,61.4,25.7,12.9,90.4,4.1,5.5,*,84.8,21.5,1,1,1,3,2010
+21,Zona metropolitana de Guadalajara,14039,Guadalajara,1495189,1,1,0,87.3,11.8,1,67,29.6,3.5,*,99.7,149.5,1,1,1,1,2010
+21,Zona metropolitana de Guadalajara,14044,Ixtlahuacán,41060,0,0,13.1,65.5,24.2,10.3,89.9,6.7,3.4,*,89.1,60.6,0,1,1,3,2010
+21,Zona metropolitana de Guadalajara,14051,Juanacatlán,13218,0,0,11.9,56.1,42.9,1,84.5,12.4,3.1,*,87.9,44.1,1,1,1,3,2010
+23,Zona metropolitana de Ocotlán,14063,Ocotlán,92967,1,1,0,90.9,2.6,6.6,90.7,3.2,6,*,93.6,85.6,1,0,0,1,2010
+23,Zona metropolitana de Ocotlán,14066,Poncitlán,48408,1,1,0,70.9,7.1,22,84,6.6,9.4,*,68.9,55.6,1,0,0,1,2010
+22,Zona metropolitana de Puerto Vallarta,14067,Puerto Vallarta,255681,1,1,0,96.5,2.4,1.1,92.7,5.2,2.1,*,98.6,86.8,1,0,1,1,2010
+21,Zona metropolitana de Guadalajara,14070,El Salto,138226,1,1,0,64.8,33.2,2,59.5,33.7,6.7,*,99.1,72,1,1,1,1,2010
+21,Zona metropolitana de Guadalajara,14097,Tlajomulco,416626,1,1,0,65.8,33.3,1,76.5,20.6,2.9,*,92.1,95,1,1,1,1,2010
+21,Zona metropolitana de Guadalajara,14098,Tlaquepaque,608114,1,1,0,58.1,40.5,1.4,77.4,22.3,0.3,*,99,122.4,1,1,1,1,2010
+21,Zona metropolitana de Guadalajara,14101,Tonalá,478689,1,1,0,50.2,47.9,1.9,86.2,13.3,0.5,*,98.9,127.9,1,1,1,1,2010
+21,Zona metropolitana de Guadalajara,14120,Zapopan,1243756,1,1,0,75.3,23.2,1.4,76.7,22.2,1.1,*,98.8,110.2,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15002,Acolman,136558,1,1,0,43.9,53.9,2.2,78.7,18.6,2.7,*,98.2,78.8,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15005,Almoloya,147653,1,1,0,58.3,36.5,5.2,88.2,8,3.8,*,94.1,45.4,1,1,0,1,2010
+58,Zona metropolitana de Tianguistenco,15006,Almoloya,10886,1,1,0,68,17.9,14.1,81.5,10.7,7.8,*,96.5,46.8,0,0,0,1,2010
+13,Zona metropolitana del Valle de México,15009,Amecameca,48421,0,0,17.9,80.2,11.8,8.1,79.3,5,15.8,*,85.6,45.9,1,1,1,3,2010
+13,Zona metropolitana del Valle de México,15010,Apaxco,27521,0,0,17.6,86.3,3.2,10.5,87.7,4,8.3,*,94.6,40.3,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15011,Atenco,56243,1,1,0,59,39,2,82.6,16.8,0.6,*,96.2,52.1,1,1,1,1,2010
+58,Zona metropolitana de Tianguistenco,15012,Atizapán,10299,1,1,0,79.4,10.4,10.2,13.6,3,83.4,*,93.2,52.1,0,0,0,1,2010
+13,Zona metropolitana del Valle de México,15013,Atizapán,489937,1,1,0,62.1,36.5,1.4,84.7,14,1.3,*,99.8,130.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15015,Atlautla,27663,0,0,28.2,70.5,10.7,18.8,86.1,0.5,13.4,*,67.3,37.7,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15016,Axapusco,25559,0,0,35.6,69,9.5,21.5,89,1.4,9.5,*,78.8,23.6,1,1,1,3,2010
+13,Zona metropolitana del Valle de México,15017,Ayapango,8864,0,0,16,43.2,16.7,40.2,83.1,2.8,14.1,*,80.8,29,1,1,1,3,2010
+24,Zona metropolitana de Toluca,15018,Calimaya,47033,1,1,0,57.2,33.4,9.4,80.3,7.7,11.9,*,88.5,57.9,1,0,0,1,2010
+58,Zona metropolitana de Tianguistenco,15019,Capulhuac,34101,1,1,0,52.1,14,33.9,77.2,14.3,8.5,*,97.1,53.9,0,0,0,1,2010
+13,Zona metropolitana del Valle de México,15020,Coacalco,278064,1,1,0,54.1,43.8,2.1,73.9,25.3,0.8,*,99.7,161.2,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15022,Cocotitlán,12142,0,0,0.6,42.1,49.2,8.7,77.8,9.2,13,*,90.5,52.3,1,1,1,2,2010
+13,Zona metropolitana del Valle de México,15023,Coyotepec,39030,1,1,0,52.5,37.9,9.6,70.1,26.3,3.6,*,96.7,48.6,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15024,Cuautitlán,140059,1,1,0,42.7,55,2.3,40.6,55.5,3.9,*,97.2,125,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15025,Chalco,310130,1,1,0,69.8,27.5,2.7,75.6,16.2,8.2,*,96.8,96.5,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15027,Chapultepec,9676,0,0,1,44.5,41.8,13.7,57.1,3.9,38.9,*,92.5,46.7,1,0,0,2,2010
+13,Zona metropolitana del Valle de México,15028,Chiautla,26191,1,1,0,56.5,41.4,2.1,74.7,24.8,0.6,*,96.7,22.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15029,Chicoloapan,175053,1,1,0,47.4,50.6,2,74.7,25,0.3,*,99.4,150.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15030,Chiconcuac,22819,1,1,0,82.1,16.3,1.6,60.5,37.9,1.6,*,98.2,51.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15031,Chimalhuacán,614453,1,1,0,63.3,34.4,2.3,92.8,6.9,0.3,*,99.5,159.1,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15033,Ecatepec,1656107,1,1,0,71.8,26.7,1.5,83,15.4,1.5,*,99.8,164.6,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15034,Ecatzingo,9369,0,0,37.2,80.5,5.6,13.9,92.9,0.8,6.3,*,62.6,11.2,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15035,Huehuetoca,100023,0,0,2.8,62.1,35.2,2.7,76.2,16.6,7.1,*,94.1,76.8,0,1,1,2,2010
+13,Zona metropolitana del Valle de México,15036,Hueypoxtla,39864,0,0,18.5,60.3,17.1,22.6,92.8,5.3,2,*,89.4,20.2,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15037,Huixquilucan,242167,1,1,0,62,35.7,2.3,74.1,21.8,4.1,*,99.1,100.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15038,Isidro Fabela,10308,0,0,10.1,60,34.1,5.9,91.9,5.7,2.5,*,84.3,17.6,1,1,1,3,2010
+13,Zona metropolitana del Valle de México,15039,Ixtapaluca,467361,1,1,0,57.5,38.2,4.3,89.2,8.5,2.2,*,98.5,142.4,1,1,1,1,2010
+58,Zona metropolitana de Tianguistenco,15043,Xalatlaco,26865,1,1,0,76.4,10.2,13.5,89,5.2,5.8,*,80.3,63.1,0,0,0,1,2010
+13,Zona metropolitana del Valle de México,15044,Jaltenco,26328,1,1,0,57,40.7,2.2,80.7,18.9,0.3,*,99.3,157.7,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15046,Jilotzingo,17970,0,0,7.8,45.4,51.6,3,90.6,5.8,3.7,*,96.4,20.8,1,1,1,2,2010
+13,Zona metropolitana del Valle de México,15050,Juchitepec,23497,0,0,16,81.8,10.2,8,90.6,2.8,6.6,*,61.6,72.7,1,1,1,3,2010
+24,Zona metropolitana de Toluca,15051,Lerma,134799,1,1,0,64.6,19.3,16.1,51.6,36.3,12.1,*,96.8,43.9,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15053,Melchor Ocampo,50240,1,1,0,41.1,55.4,3.5,69,29.7,1.3,*,97.7,65.9,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15054,Metepec,214162,1,1,0,59.2,34,6.7,72.9,20.5,6.6,*,98.9,83.8,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15055,Mexicaltzingo,11712,1,1,0,59.5,29.7,10.8,61.4,20.7,17.9,*,95.3,57.7,1,0,0,1,2010
+13,Zona metropolitana del Valle de México,15057,Naucalpan,833779,1,1,0,76.1,22.3,1.6,64.8,31.8,3.3,*,99.6,192.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15058,Nezahualcóyotl,1110565,1,1,0,60.5,37.8,1.8,83.5,15.8,0.7,*,97.6,226.8,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15059,Nextlalpan,34374,1,1,0,68.2,29.1,2.6,85,14.3,0.7,*,93.7,31.3,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15060,Nicolás Romero,366602,1,1,0,47.5,44.6,7.9,93.8,4.6,1.6,*,98.7,86.5,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15061,Nopaltepec,8895,0,0,27.3,78.8,7.7,13.5,88.2,3.6,8.2,*,78.9,15.8,1,1,1,3,2010
+24,Zona metropolitana de Toluca,15062,Ocoyoacac,61805,0,0,1.7,69.6,20.9,9.4,78.4,12.7,8.8,*,96.1,59.9,1,1,1,2,2010
+13,Zona metropolitana del Valle de México,15065,Otumba,34232,0,0,10.8,79.3,13.1,7.6,78.2,7.3,14.5,*,81.2,22,1,1,1,3,2010
+24,Zona metropolitana de Toluca,15067,Otzolotepec,78146,1,1,0,48.8,40.2,11,54.6,2.2,43.2,*,93.2,28,1,0,0,1,2010
+13,Zona metropolitana del Valle de México,15068,Ozumba,27207,0,0,28.3,71.6,9.8,18.6,79.9,1.1,19,*,76,46.1,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15069,Papalotla,4147,1,1,0,51.5,46.6,1.9,66.1,31.9,2,*,95.9,19.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15070,La Paz,253845,1,1,0,56,42.7,1.3,90,9.7,0.3,*,99.7,134.7,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15072,Rayón,12748,0,0,5.9,51.8,27.1,21.2,65.6,3.1,31.3,*,89.2,62.3,1,0,0,2,2010
+24,Zona metropolitana de Toluca,15073,San Antonio la Isla,22152,0,0,4.1,60.5,24.2,15.3,74.3,12.2,13.5,*,84.1,81.3,1,0,0,2,2010
+13,Zona metropolitana del Valle de México,15075,San Martín de las Pirámides,24851,0,0,7,68.4,23.6,8.1,83.5,8.1,8.4,*,88.2,43,1,1,1,2,2010
+24,Zona metropolitana de Toluca,15076,San Mateo Atenco,72579,1,1,0,62.8,32.4,4.8,77.8,17.6,4.6,*,98.7,49.6,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15081,Tecámac,364579,1,1,0,53.3,43.3,3.4,81.6,14.6,3.8,*,99,98.2,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15083,Temamatla,11206,0,0,4.1,60.2,30.9,8.9,66.8,13.8,19.4,*,93.1,37.2,0,1,1,2,2010
+13,Zona metropolitana del Valle de México,15084,Temascalapa,35987,0,0,17.1,56.8,19.9,23.3,91.7,5,3.3,*,90.1,21.7,1,1,1,3,2010
+24,Zona metropolitana de Toluca,15087,Temoaya,90010,0,0,5.5,52.8,40.2,7.1,91.8,5.7,2.5,*,90.5,33.5,1,0,0,2,2010
+13,Zona metropolitana del Valle de México,15089,Tenango del Aire,10578,0,0,12.3,59.3,25.1,15.6,77.8,0.4,21.8,*,83.9,41,1,1,1,3,2010
+13,Zona metropolitana del Valle de México,15091,Teoloyucan,63115,1,1,0,58.8,36.5,4.7,62,33,4.9,*,96,44.2,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15092,Teotihuacán,53010,1,1,0,74.9,19.1,6,75.7,13.1,11.1,*,96.9,37.1,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15093,Tepetlaoxtoc,27944,1,1,0,65.5,32.8,1.8,90.6,9.1,0.3,*,89.6,15.5,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15094,Tepetlixpa,18327,0,0,27,77.1,8,14.9,88.1,0.2,11.7,*,63.4,32.2,0,1,1,3,2010
+13,Zona metropolitana del Valle de México,15095,Tepotzotlán,88559,1,1,0,53.3,43.5,3.2,58.6,35.3,6.1,*,96.2,55.4,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15096,Tequixquiac,33907,0,0,7.6,69.7,16.6,13.7,92.6,4.2,3.2,*,87.7,18.7,0,1,1,3,2010
+58,Zona metropolitana de Tianguistenco,15098,Texcalyacac,5111,0,0,2.3,49.5,26.7,23.8,84.6,7.7,7.6,*,88.5,27.7,0,0,0,2,2010
+13,Zona metropolitana del Valle de México,15099,Texcoco,235151,1,1,0,85.4,13,1.5,74.9,22.8,2.3,*,94.1,45.9,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15100,Tezoyuca,35199,1,1,0,54.3,43.3,2.4,76.9,20.8,2.4,*,98.2,37,1,1,1,1,2010
+58,Zona metropolitana de Tianguistenco,15101,Tianguistenco,70682,1,1,0,75.2,7.1,17.7,72.1,10.3,17.5,*,90.2,61.6,0,0,0,1,2010
+13,Zona metropolitana del Valle de México,15103,Tlalmanalco,46130,0,0,8,62,30,8,85.8,7.3,6.9,*,96.6,53.5,1,1,1,2,2010
+13,Zona metropolitana del Valle de México,15104,Tlalnepantla,664225,1,1,0,65.6,31.6,2.8,51.6,46.5,2,*,99.9,155.4,1,1,1,1,2010
+24,Zona metropolitana de Toluca,15106,Toluca,819561,1,1,0,86.3,7.3,6.4,66.5,20,13.5,*,98.8,72.3,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15108,Tultepec,91808,1,1,0,52.7,45,2.3,67,31.8,1.2,*,99.5,84.7,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15109,Tultitlán,524074,1,1,0,55.3,42.3,2.4,77.3,21.7,0.9,*,99.6,155.6,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15112,Villa del Carbón,44881,0,0,21.5,82.5,10.2,7.3,88.9,6.5,4.6,*,73.9,21.6,0,1,1,3,2010
+24,Zona metropolitana de Toluca,15115,Xonacatlán,46331,0,0,4.8,56.1,35,8.9,57.2,39.4,3.4,*,95,43.3,1,1,1,2,2010
+24,Zona metropolitana de Toluca,15118,Zinacantepec,167759,1,1,0,52.1,43.4,4.5,84.9,12,3.1,*,91.8,47.9,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15120,Zumpango,159647,1,1,0,71.5,19.3,9.1,80.3,14,5.7,*,93.2,45,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15121,Cuautitlán Izcalli,511675,1,1,0,66.4,30.6,3,73,24.5,2.5,*,99.7,126.5,1,1,1,1,2010
+13,Zona metropolitana del Valle de México,15122,Chalco,357645,1,1,0,54.2,42.9,2.9,89.8,8,2.3,*,99.6,158.7,0,1,1,1,2010
+13,Zona metropolitana del Valle de México,15125,Tonanitla,10216,1,1,0,46.8,50.7,2.4,91.8,6.3,1.9,*,94.8,56.4,0,0,1,1,2010
+25,Zona metropolitana de Morelia,16022,Charo,21723,0,0,7.8,57.8,40.3,1.9,89.4,7.2,3.5,*,76.5,34.2,1,1,0,2,2010
+26,Zona metropolitana de Zamora-Jacona,16043,Jacona,64011,1,1,0,82.9,14,3,92.4,4.8,2.8,*,74.5,71.6,1,1,1,1,2010
+25,Zona metropolitana de Morelia,16053,Morelia,729279,1,1,0,96.8,0.3,3,92.7,2.8,4.5,*,94.9,92.8,1,1,1,1,2010
+27,Zona metropolitana de La Piedad-Pénjamo,16069,La Piedad,99576,1,1,0,93.5,0.8,5.6,93.5,2.6,3.9,*,90.5,78.2,1,0,0,1,2010
+25,Zona metropolitana de Morelia,16088,Tarímbaro,78623,1,1,0,68.5,27.2,4.3,95.1,3.4,1.5,*,94.4,98.7,1,1,1,1,2010
+26,Zona metropolitana de Zamora-Jacona,16108,Zamora,186102,1,1,0,94.7,1.3,3.9,91,4.2,4.7,*,79.9,104.4,1,1,1,1,2010
+29,Zona metropolitana de Cuautla,17002,Atlatlahucan,18895,0,0,6.3,82.6,5.2,12.2,78.2,9.6,12.3,*,77.1,29.3,1,1,1,3,2010
+29,Zona metropolitana de Cuautla,17004,Ayala,78866,1,1,0,66.3,26.3,7.4,86.9,7.3,5.7,*,81.7,50.4,1,1,1,1,2010
+29,Zona metropolitana de Cuautla,17006,Cuautla,175207,1,1,0,89.1,3.4,7.5,79.6,11.7,8.8,*,92.2,58.2,1,1,1,1,2010
+28,Zona metropolitana de Cuernavaca,17007,Cuernavaca,365168,1,1,0,92.4,4.6,2.9,67.2,24,8.8,*,99.1,73.6,1,1,1,1,2010
+28,Zona metropolitana de Cuernavaca,17008,Emiliano Zapata,83485,1,1,0,59.3,36.9,3.8,81.5,14.1,4.4,*,98.2,56.6,1,1,1,1,2010
+28,Zona metropolitana de Cuernavaca,17009,Huitzilac,17340,0,0,7.2,77,18.9,4.1,93.7,5.6,0.7,*,83.1,30,1,0,0,2,2010
+28,Zona metropolitana de Cuernavaca,17011,Jiutepec,196953,1,1,0,64.9,31,4.1,79.7,16.8,3.5,*,98.9,93.9,1,1,1,1,2010
+28,Zona metropolitana de Cuernavaca,17018,Temixco,108126,1,1,0,66.1,31.9,1.9,83.2,14.3,2.6,*,94.9,59.3,1,1,1,1,2010
+28,Zona metropolitana de Cuernavaca,17020,Tepoztlán,41629,1,1,0,70.1,25.1,4.8,91.6,3.5,4.9,*,85.6,58.8,1,0,1,1,2010
+28,Zona metropolitana de Cuernavaca,17024,Tlaltizapán,48881,0,0,9.6,66.8,16.4,16.8,90.4,1.2,8.4,*,83.8,38.1,0,0,0,2,2010
+29,Zona metropolitana de Cuautla,17026,Tlayacapan,16543,0,0,12.6,82.7,2.4,15,83.6,1.7,14.6,*,71.9,51.6,1,1,0,3,2010
+28,Zona metropolitana de Cuernavaca,17028,Xochitepec,63382,1,1,0,59.3,36.9,3.8,78.9,10.7,10.4,*,95,43.2,1,0,1,1,2010
+29,Zona metropolitana de Cuautla,17029,Yautepec,97827,0,0,8.2,81,4.1,14.9,84.2,6.4,9.4,*,90.3,42.4,1,1,1,3,2010
+29,Zona metropolitana de Cuautla,17030,Yecapixtla,46809,1,1,0,72.6,18.8,8.7,80.7,11.5,7.8,*,81.8,46.7,1,1,1,1,2010
+30,Zona metropolitana de Tepic,18008,Xalisco,49102,1,1,0,68.7,27.5,3.9,90.5,8.8,0.7,*,85.4,71.3,1,1,1,1,2010
+30,Zona metropolitana de Tepic,18017,Tepic,380249,1,1,0,94,0.8,5.2,94.8,3.2,1.9,*,93.9,89.6,1,1,1,1,2010
+22,Zona metropolitana de Puerto Vallarta,18020,Bahía de Banderas,124205,1,1,0,88.6,11,0.4,92.4,5.1,2.5,*,95.3,77.4,1,0,1,1,2010
+31,Zona metropolitana de Monterrey,19006,Apodaca,523370,1,1,0,53.8,43.1,3.1,62.6,33.2,4.2,*,99.5,127.3,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19009,Cadereyta,86445,0,0,4.7,89.5,8.3,2.3,80.8,16.7,2.4,*,91.4,56,0,0,0,2,2010
+31,Zona metropolitana de Monterrey,19010,Carmen,16092,1,1,0,54.1,41.4,4.5,61.8,11.6,26.6,*,98.8,43.4,0,0,0,1,2010
+31,Zona metropolitana de Monterrey,19018,García,143668,1,1,0,39.8,58,2.2,65,34.5,0.5,*,98.9,104.2,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19019,San Pedro Garza García,122659,1,1,0,61.3,36.6,2.2,29.9,69.6,0.5,*,99.4,59.4,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19021,Escobedo,357937,1,1,0,41.6,54.2,4.2,64.8,31.6,3.6,*,99.7,113,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19026,Guadalupe,678006,1,1,0,52.5,44.9,2.6,66.4,32.8,0.8,*,99.9,107.1,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19031,Juárez,256970,1,1,0,29,67.7,3.4,75.7,22.5,1.8,*,98.7,112.3,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19039,Monterrey,1135550,1,1,0,83.4,14.8,1.8,58,38.1,3.9,*,99.7,107.7,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19045,Salinas Victoria,32660,1,1,0,67.1,24.2,8.7,62.1,29.1,8.8,*,85.3,40.9,0,0,0,1,2010
+31,Zona metropolitana de Monterrey,19046,San Nicolás de los Garza,443273,1,1,0,48.3,49.3,2.5,51.9,46.3,1.8,*,99.8,116.5,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19048,Santa Catarina,268955,1,1,0,59.4,38.6,2.1,68,31.6,0.4,*,99.8,126.5,1,1,1,1,2010
+31,Zona metropolitana de Monterrey,19049,Santiago,40469,1,1,0,79.9,16.7,3.4,82,13.8,4.2,*,96.3,18.2,0,0,0,1,2010
+32,Zona metropolitana de Oaxaca,20067,Oaxaca,263357,1,1,0,90.6,3.4,5.9,61,22.9,16.1,*,99.5,75.1,1,1,1,1,2010
+33,Zona metropolitana de Tehuantepec,20079,Salina Cruz,82371,0,0,7.1,96.7,0.8,2.5,81.2,8.7,10.1,*,97.4,50.6,1,1,0,3,2010
+32,Zona metropolitana de Oaxaca,20083,San Agustín de las Juntas,8089,1,1,0,48.2,42.5,9.3,77.3,16.3,6.4,*,95.6,33.4,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20087,San Agustín Yatareni,4075,1,1,0,82.3,16.4,1.3,76.8,19.7,3.5,*,87.8,16.2,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20091,San Andrés Huayápam,4879,1,1,0,47.4,48,4.6,91.8,5.2,2.9,*,97.7,26.7,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20107,San Antonio de la Cal,21456,1,1,0,42.3,46.2,11.5,84.3,11.6,4.2,*,97.6,59.8,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20115,San Bartolo Coyotepec,8684,1,1,0,65.1,24.8,10.1,37.9,42.8,19.4,*,93.6,34.8,1,1,1,1,2010
+33,Zona metropolitana de Tehuantepec,20124,San Blas Atempa,17094,1,1,0,80.2,7.7,12.1,97,1.1,1.9,*,71.1,103.8,1,1,0,1,2010
+32,Zona metropolitana de Oaxaca,20157,San Jacinto Amilpas,13860,1,1,0,40.8,48.8,10.4,75.6,20.2,4.2,*,98.9,37.8,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20174,Ánimas Trujano,3759,1,1,0,60.7,34.3,5,73.2,14.3,12.5,*,94.5,27.8,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20227,San Lorenzo Cacaotepec,13704,1,1,0,70.6,22.8,6.7,84.2,7.5,8.3,*,84.9,17.4,0,0,0,1,2010
+32,Zona metropolitana de Oaxaca,20293,San Pablo Etla,15535,1,1,0,50.2,39,10.8,64.7,20.6,14.7,*,95.8,93.4,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20338,Villa de Etla,9280,0,0,3.2,55,32.2,12.8,67.9,6.9,25.2,*,96,29.9,0,0,0,2,2010
+32,Zona metropolitana de Oaxaca,20350,San Sebastián Tutla,16241,1,1,0,21.9,66.7,11.4,74.8,20.9,4.3,*,98.8,107.3,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20375,Santa Cruz Amilpas,10120,1,1,0,32.5,60.1,7.4,86.8,11.9,1.3,*,99.2,84.6,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20385,Santa Cruz Xoxocotlán,77833,1,1,0,57,36.7,6.3,85,10.4,4.6,*,97.6,53.8,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20390,Santa Lucía del Camino,47356,1,1,0,57.8,34,8.2,79.1,17.7,3.2,*,99.2,82.4,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20399,Santa María Atzompa,27465,1,1,0,42.6,50,7.4,89.8,7.7,2.5,*,95.7,48.1,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20403,Santa María Coyotepec,2772,1,1,0,61,29.4,9.5,63.1,22.8,14.1,*,92.1,18.4,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20409,Santa María del Tule,8165,1,1,0,45.2,47.1,7.7,64.6,23.5,11.9,*,95,57.5,1,1,1,1,2010
+33,Zona metropolitana de Tehuantepec,20515,Santo Domingo Tehuantepec,61872,1,1,0,79.9,0.3,19.8,87.2,3,9.7,*,81.8,41.5,1,1,0,1,2010
+32,Zona metropolitana de Oaxaca,20519,Santo Domingo Tomaltepec,2790,1,1,0,67.1,30.1,2.8,100,0,0,*,80,19.3,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20539,Soledad Etla,5025,0,0,2.5,59.6,28.1,12.3,92,2.1,5.9,*,84.8,20.2,0,0,0,2,2010
+32,Zona metropolitana de Oaxaca,20553,Tlalixtac de Cabrera,9417,1,1,0,73.1,22.2,4.6,58.6,36,5.4,*,87.5,12.6,1,1,1,1,2010
+32,Zona metropolitana de Oaxaca,20565,Villa de Zaachila,34101,0,0,4.6,59.6,33.6,6.9,89.8,6.5,3.7,*,90.1,36.7,0,0,0,2,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21001,Acajete,60353,0,0,9.1,75.2,17.2,7.5,92.6,2.9,4.5,*,80.8,29.9,0,0,0,2,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21015,Amozoc,100964,1,1,0,74.1,22.2,3.7,94,3.9,2.1,*,97.6,51.4,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21034,Coronango,34596,1,1,0,78.7,17.5,3.8,92.9,5.7,1.4,*,78.5,19.7,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21041,Cuautlancingo,79153,1,1,0,60.1,35.5,4.4,83.9,14.5,1.6,*,99.1,47,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21048,Chiautzingo,18762,0,0,13.2,90.5,1.6,7.9,96.4,0.6,3,*,40.8,13.3,0,1,0,3,2010
+59,Zona metropolitana de Teziutlán,21054,Chignautla,30254,1,1,0,65.4,28.6,6.1,91.6,2.8,5.7,*,85.7,38.8,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21060,Domingo Arenas,6946,0,0,9,69.2,7.8,23,97.3,0,2.7,*,59.6,26.1,1,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21074,Huejotzingo,63457,0,0,3,90.8,5.4,3.8,83,6.3,10.7,*,80.5,43.1,1,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21090,Juan C. Bonilla,18540,1,1,0,73.1,21.8,5.1,90.1,4.3,5.6,*,79.8,21.9,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21106,Ocoyucan,25720,1,1,0,76.7,19.5,3.8,96.1,2.5,1.4,*,59,19,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21114,Puebla,1539819,1,1,0,95.9,1.8,2.3,86.9,7.6,5.4,*,98.9,102.9,0,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21119,Cholula,100439,1,1,0,71.6,25.8,2.5,84.1,14,1.9,*,87.1,41.3,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21122,San Felipe Teotlalcingo,9426,0,0,21.3,82.7,1.4,15.8,94.4,2,3.6,*,46.9,20.3,0,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21125,San Gregorio Atzompa,8170,1,1,0,83.6,13.9,2.6,64.4,29.9,5.7,*,71.9,15.5,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21132,San Martín Texmelucan,141112,0,0,15.8,90.8,3.2,6,84,4.4,11.6,*,88.8,54.2,1,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21136,San Miguel Xoxtla,11598,1,1,0,80.4,15.5,4.1,75,18.8,6.3,*,97,44.8,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21140,Cholula,120459,1,1,0,74.1,22.5,3.5,77.7,17.6,4.7,*,92.6,41.2,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21143,San Salvador el Verde,28419,0,0,24.6,74.7,1.4,23.9,94.3,0.2,5.5,*,56.3,23.4,0,1,0,3,2010
+35,Zona metropolitana de Tehuacán,21149,Santiago Miahuatlán,21993,1,1,0,69.9,27.1,3,92.7,4.3,3.1,*,87.8,28.2,0,0,0,1,2010
+35,Zona metropolitana de Tehuacán,21156,Tehuacán,274906,1,1,0,95.6,0.2,4.2,89.9,1.8,8.4,*,94.6,76.1,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21163,Tepatlaxco,16275,0,0,5.7,55.6,30.7,13.7,88,3.9,8.2,*,83.9,42.6,0,0,0,2,2010
+59,Zona metropolitana de Teziutlán,21174,Teziutlán,92246,1,1,0,94.6,0.5,4.8,82.2,6.9,10.9,*,94.2,53,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,21181,Tlaltenango,6269,0,0,3.8,80.9,15,4.1,94.8,3.2,2,*,59.5,19,1,1,0,3,2010
+36,Zona metropolitana de Querétaro,22006,Corregidora,143073,1,1,0,56.9,38.4,4.7,90,8,1.9,*,98.2,78.1,1,1,1,1,2010
+36,Zona metropolitana de Querétaro,22008,Huimilpan,35554,0,0,12.6,87,11.7,1.3,94.4,3.9,1.7,*,76.4,27.4,1,1,0,3,2010
+36,Zona metropolitana de Querétaro,22011,El Marqués,116458,1,1,0,77.1,20.5,2.4,66.9,9.8,23.3,*,87.2,58.4,1,1,1,1,2010
+36,Zona metropolitana de Querétaro,22014,Querétaro,801940,1,1,0,96.2,1.8,2.1,83.8,7.5,8.7,*,98.3,105.4,1,1,1,1,2010
+37,Zona metropolitana de Cancún,23003,Isla Mujeres,16203,0,0,8.9,93.6,5.9,0.5,81,17.4,1.6,*,85.9,56.3,1,0,1,3,2010
+37,Zona metropolitana de Cancún,23005,Benito Juárez,661176,1,0,0,96.5,0.5,3.1,95.9,0.1,4,*,99.1,104.3,1,0,1,1,2010
+39,Zona metropolitana de Rioverde-Ciudad Fernández,24011,Ciudad Fernández,43528,1,1,0,70.5,27.2,2.3,92.5,6.9,0.6,*,71,22.6,1,1,1,1,2010
+39,Zona metropolitana de Rioverde-Ciudad Fernández,24024,Rioverde,91924,1,1,0,95.3,2.5,2.2,84.3,11.5,4.2,*,70.5,33.2,1,1,1,1,2010
+38,Zona metropolitana de San Luis Potosí - Soledad de Graciano Sánchez,24028,San Luis Potosí,772604,1,1,0,96.3,1.2,2.5,84.5,9.4,6.1,*,98.7,103.5,1,1,1,1,2010
+38,Zona metropolitana de San Luis Potosí - Soledad de Graciano Sánchez,24035,Soledad de Graciano Sánchez,267839,1,1,0,64.1,32.7,3.2,93.8,5.5,0.7,*,97.9,112.8,1,1,1,1,2010
+40,Zona metropolitana de Guaymas,26025,Empalme,54131,0,0,3.4,87.7,9.8,2.5,89.2,8.9,1.9,*,80.9,42.5,1,1,1,3,2010
+40,Zona metropolitana de Guaymas,26029,Guaymas,149299,1,0,0,94.3,0,5.7,94.1,0,5.9,*,88,55.5,1,1,1,1,2010
+41,Zona metropolitana de Villahermosa,27004,Centro,640359,1,1,0,95,0.4,4.6,84.7,6.1,9.1,*,97.1,82.8,1,0,0,1,2010
+41,Zona metropolitana de Villahermosa,27013,Nacajuca,115066,1,1,0,50.8,42.9,6.2,91.3,4.7,4.1,*,89.8,107.9,1,0,0,1,2010
+42,Zona metropolitana de Tampico,28003,Altamira,212001,1,1,0,75.4,21.4,3.2,78.9,20,1.1,*,93.9,75.4,1,1,1,1,2010
+42,Zona metropolitana de Tampico,28009,Ciudad Madero,197216,1,1,0,70.6,25.1,4.3,80.8,18.7,0.4,*,99.5,82.1,1,1,1,1,2010
+44,Zona metropolitana de Matamoros,28022,Matamoros,489193,1,0,0,99.3,0,0.7,98.2,0,1.8,*,95.2,69.9,n.a.,1,1,1,2010
+45,Zona metropolitana de Nuevo Laredo,28027,Nuevo Laredo,384033,1,0,0,99.5,0,0.5,98.8,0,1.2,*,99.3,70.9,n.a.,1,1,1,2010
+43,Zona metropolitana de Reynosa-Río Bravo,28032,Reynosa,608891,1,0,0,98.9,0,1.1,95,0,5,*,97.8,73.3,1,1,1,1,2010
+43,Zona metropolitana de Reynosa-Río Bravo,28033,Río Bravo,118259,0,0,6.7,79,20,1,96.2,1.3,2.5,*,89.2,55.5,1,1,1,2,2010
+42,Zona metropolitana de Tampico,28038,Tampico,297554,1,1,0,82.2,14.2,3.6,73.6,24.3,2.1,*,98,95.6,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29001,Amaxac,9875,1,1,0,46.4,44.3,9.3,78.2,20.3,1.5,*,89.9,17.1,0,0,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29002,Apetatitlán,13361,1,1,0,45.3,42.7,12,48.2,48.4,3.4,*,96.5,26.3,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29005,Apizaco,76492,1,1,0,76.7,14.4,8.9,55,31.2,13.8,*,95.3,56.8,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29009,Cuaxomulco,5066,1,1,0,49.6,39.4,11,82.1,13,4.9,*,75.5,7.8,0,0,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29010,Chiautempan,66149,1,1,0,69.6,20.5,9.9,71,24.7,4.3,*,92.9,44.5,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29015,Ixtacuixtla,35162,0,0,19.7,70.8,4.3,25,83.3,1.5,15.2,*,76.3,23.8,1,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29017,Mazatecochco,9740,1,1,0,85.7,9.2,5.1,92.2,3,4.7,*,82.6,53.4,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29018,Contla de Juan Cuamatzi,35084,1,1,0,61.3,30.8,7.9,85.2,13.9,1,*,91.7,31.9,0,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29019,Tepetitla,18725,0,0,14.3,73.3,6.6,20.2,83.1,4.2,12.8,*,82.6,32.1,1,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29022,Acuamanala,5711,1,1,0,58.5,25.7,15.8,49.2,21.9,28.9,*,89.8,14.1,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29023,Nativitas,23621,1,1,0,68.1,15.4,16.5,89,5.6,5.4,*,69.1,19,1,1,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29024,Panotla,25128,1,1,0,57,25.9,17,76.1,15.9,8.1,*,81,24.2,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29025,San Pablo del Monte,69615,1,1,0,61.7,35.3,3,91.9,4.9,3.3,*,93.8,67.3,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29026,Santa Cruz Tlaxcala,17968,1,1,0,38.6,45.9,15.5,75.3,22.5,2.3,*,90.8,9.5,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29027,Tenancingo,11763,1,1,0,64.8,31.8,3.4,84.7,14.3,0.9,*,83.3,32.5,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29028,Teolocholco,21671,1,1,0,71.1,14.1,14.8,75.3,6.9,17.8,*,89.1,21.4,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29029,Tepeyanco,11048,1,1,0,62.3,21.3,16.3,75.3,11.6,13,*,84.9,17.9,1,1,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29031,Tetla,28760,1,1,0,61.8,30.6,7.6,63.3,28.4,8.3,*,87.7,17.8,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29032,Tetlatlahuca,12410,1,1,0,69,18.4,12.7,89.5,3.3,7.2,*,66.9,16.4,1,1,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29033,Tlaxcala,89795,1,1,0,75.1,13.2,11.7,53.5,28.5,18,*,97.2,40.1,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29035,Tocatlán,5589,1,1,0,58.3,30.6,11.1,81.3,16.2,2.4,*,75.2,11.2,0,0,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29036,Totolac,20625,1,1,0,46.8,38,15.2,83.6,15.3,1.2,*,97.5,37.6,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29038,Tzompantepec,14611,1,1,0,41.1,49.3,9.6,74.9,22,3,*,90.3,13.1,1,1,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29039,Xaloztoc,21769,1,1,0,71,22.6,6.4,76.5,16.7,6.7,*,83.7,24.5,1,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29041,Papalotla de Xicohténcatl,26997,1,1,0,67.6,27.2,5.2,68.3,24,7.8,*,93.2,26.7,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29042,Xicohtzinco,12255,1,1,0,60.7,31.1,8.2,74.7,22.3,3,*,92.6,28.1,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29043,Yauhquemecan,33081,1,1,0,55.8,34.7,9.5,83.6,13.7,2.7,*,94.9,27.4,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29044,Zacatelco,38654,1,1,0,67.6,24.2,8.2,77.1,12.1,10.7,*,90.4,37.8,1,1,1,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29048,Tlaltelulco,16834,1,1,0,42.7,43.5,13.8,61.4,31.7,6.9,*,93.3,17,0,0,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29049,Texoloc,5064,1,1,0,57.9,26.7,15.5,90.9,6.5,2.7,*,75.3,24.1,0,0,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29050,Tetlanohcan,9880,1,1,0,56.5,27.3,16.2,86.2,11.8,2,*,77.3,21.3,0,0,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29051,Zacualpan,3581,1,1,0,61.5,21.1,17.4,85.8,9.3,4.9,*,78.1,18.6,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29053,Huactzinco,6821,1,1,0,51.4,19.9,28.7,83.3,13.5,3.2,*,92.2,29.3,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29054,Axocomanitla,5045,1,1,0,49.1,35,15.9,79.4,15.4,5.3,*,87.3,48.2,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29056,Nopalucan,6857,0,0,13.1,54.1,6,39.9,56.9,6.4,36.7,*,79.3,19.3,0,1,0,3,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29057,Teacalco,4349,1,1,0,70.6,15.5,13.9,91.4,3.4,5.2,*,62.2,26.8,1,1,0,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29058,Ayometla,7992,1,1,0,55.4,34.2,10.4,77.7,15,7.3,*,84.7,17,1,1,1,1,2010
+34,Zona metropolitana de Puebla-Tlaxcala,29059,Quilehtla,6296,1,1,0,61.2,25.7,13.1,89.5,9.1,1.4,*,86.8,17.9,1,1,0,1,2010
+46,Zona metropolitana de Tlaxcala-Apizaco,29060,Xiloxoxtla,4436,1,1,0,60.2,21.5,18.3,43.7,34.1,22.2,*,88.4,7.8,0,0,0,1,2010
+54,Zona metropolitana de Acayucan,30003,Acayucan,83817,1,1,0,92.6,0.5,6.9,77.7,7.6,14.8,*,82.7,56.1,1,0,0,1,2010
+47,Zona metropolitana de Veracruz,30011,Alvarado,51955,0,0,56.1,91,2.9,6.1,92.9,2.9,4.2,*,65.8,82.2,1,1,1,3,2010
+53,Zona metropolitana de Córdoba,30014,Amatlán,42268,1,1,0,70.3,22,7.7,89.7,4.9,5.4,*,73.5,24.9,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30022,Atzacan,20063,0,0,2.8,66.5,22.2,11.3,94.1,4.7,1.3,*,61,49.5,1,1,1,3,2010
+48,Zona metropolitana de Xalapa,30026,Banderilla,21546,1,1,0,40.5,50.8,8.7,54.8,17.7,27.4,*,97.2,51.1,1,1,1,1,2010
+47,Zona metropolitana de Veracruz,30028,Boca del Río,138058,1,1,0,72.9,21.7,5.4,82.7,9,8.3,*,99.2,96.6,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30030,Camerino Z. Mendoza,41778,1,1,0,59.5,27.4,13,75.2,17.6,7.2,*,98.4,70.5,1,1,1,1,2010
+49,Zona metropolitana de Poza Rica,30033,Cazones,23483,0,0,21.5,89.5,7.7,2.9,95.4,4.1,0.5,*,45.1,34.5,1,1,0,3,2010
+48,Zona metropolitana de Xalapa,30038,Coatepec,86696,0,0,4.8,76.4,18.7,4.8,85.4,5.5,9.1,*,90.5,65.2,1,1,1,2,2010
+52,Zona metropolitana de Coatzacoalcos,30039,Coatzacoalcos,305260,1,1,0,93.3,0.1,6.7,86,2.6,11.4,*,98.1,80.3,1,1,1,1,2010
+49,Zona metropolitana de Poza Rica,30040,Coatzintla,48351,1,1,0,63.1,32.9,4,94.4,3.8,1.8,*,93.4,71.3,1,1,1,1,2010
+53,Zona metropolitana de Córdoba,30044,Córdoba,196541,1,1,0,92.6,2,5.4,82.7,7.6,9.8,*,96.5,92.7,1,1,1,1,2010
+51,Zona metropolitana de Minatitlán,30048,Cosoleacaque,117725,1,1,0,54.1,28.5,17.4,88.1,7.6,4.3,*,95.7,58.6,1,1,1,1,2010
+51,Zona metropolitana de Minatitlán,30059,Chinameca,15214,1,1,0,62.4,23.3,14.4,82.3,10.6,7.1,*,81.4,19.8,0,0,0,1,2010
+48,Zona metropolitana de Xalapa,30065,Emiliano Zapata,61718,0,0,0.7,48.1,41.3,10.6,82.8,9.6,7.7,*,89,63.7,1,1,0,2,2010
+53,Zona metropolitana de Córdoba,30068,Fortín,59761,1,1,0,77.2,16.9,5.9,83.3,6,10.7,*,90.5,52.3,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30074,Huiloapan,6750,1,1,0,39.9,53.7,6.5,68.8,30.6,0.7,*,94.8,54.6,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30081,Ixhuatlancillo,21150,1,1,0,44.9,42.9,12.2,89,9.2,1.8,*,93.4,73.4,1,1,1,1,2010
+52,Zona metropolitana de Coatzacoalcos,30082,Ixhuatlán del Sureste,14903,0,0,2.4,69.4,17.5,13.1,95.6,1.9,2.4,*,87.4,44.8,1,1,1,2,2010
+50,Zona metropolitana de Orizaba,30085,Ixtaczoquitlán,65385,1,1,0,63.8,25.2,11,73.8,21.6,4.7,*,83.2,44.5,1,1,1,1,2010
+48,Zona metropolitana de Xalapa,30087,Xalapa,457928,1,1,0,93.8,0.5,5.6,82.2,3.4,14.5,*,97.4,106.9,1,1,1,1,2010
+51,Zona metropolitana de Minatitlán,30089,Jáltipan,39673,0,0,1.4,71.5,15.3,13.2,87.2,6.4,6.5,*,84.1,39.7,0,0,0,2,2010
+47,Zona metropolitana de Veracruz,30090,Jamapa,10376,0,0,17.6,72.9,18.1,9,81.9,15,3.1,*,80.7,33.9,1,0,0,3,2010
+48,Zona metropolitana de Xalapa,30093,Jilotepec,15313,0,0,2.6,46.9,48,5,86.8,8.2,5.1,*,80,39.3,1,1,0,2,2010
+50,Zona metropolitana de Orizaba,30099,Maltrata,16898,0,0,8.6,73,20.4,6.6,91.7,6.7,1.6,*,76.8,33.7,0,0,0,2,2010
+50,Zona metropolitana de Orizaba,30101,Mariano Escobedo,33941,1,1,0,51,40.6,8.4,88.2,8,3.9,*,72.1,106,1,1,1,1,2010
+47,Zona metropolitana de Veracruz,30105,Medellín,59126,0,0,2.6,62.9,33.2,4,91.3,5.1,3.7,*,90.3,65.9,1,1,0,2,2010
+51,Zona metropolitana de Minatitlán,30108,Minatitlán,157840,1,1,0,88.3,2.6,9.2,68,19.7,12.3,*,82.7,58.8,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30115,Nogales,34688,1,1,0,53.4,39.3,7.3,74.7,20.4,4.9,*,84.9,58.5,1,1,1,1,2010
+54,Zona metropolitana de Acayucan,30116,Oluta,14784,0,0,0.8,55.1,33.1,11.8,81.2,11,7.9,*,91.4,48.4,0,0,0,2,2010
+50,Zona metropolitana de Orizaba,30118,Orizaba,120995,1,1,0,84.1,9.1,6.9,55.4,35.2,9.3,*,98.9,81.6,1,1,1,1,2010
+51,Zona metropolitana de Minatitlán,30120,Oteapan,14965,1,1,0,42.1,44.4,13.5,87.8,7.9,4.3,*,93.3,18.1,0,0,0,1,2010
+42,Zona metropolitana de Tampico,30123,Pánuco,97290,1,1,0,88.5,7.1,4.4,93.1,4.2,2.6,*,73.1,40.7,1,1,1,1,2010
+49,Zona metropolitana de Poza Rica,30124,Papantla,158599,0,0,11.4,91.4,6.4,2.1,95,1.6,3.4,*,64.9,50.9,1,1,1,3,2010
+49,Zona metropolitana de Poza Rica,30131,Poza Rica,193311,1,1,0,95.1,1.5,3.4,76.1,11.8,12.2,*,98.8,70.7,1,1,1,1,2010
+42,Zona metropolitana de Tampico,30133,Pueblo Viejo,55358,1,1,0,57.8,37.6,4.6,92.6,4.9,2.5,*,86.9,49.3,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30135,Rafael Delgado,20245,1,1,0,51,40,9,86.8,9.6,3.6,*,72.2,44.5,1,1,1,1,2010
+48,Zona metropolitana de Xalapa,30136,Rafael Lucio,7023,0,0,4.7,43.5,51.9,4.6,91.4,3.8,4.7,*,87.8,37.3,1,0,0,2,2010
+50,Zona metropolitana de Orizaba,30138,Río Blanco,40634,1,1,0,46.3,46.1,7.5,63.1,31.9,4.9,*,98.9,72.6,1,1,1,1,2010
+54,Zona metropolitana de Acayucan,30145,Soconusco,14395,1,1,0,41.8,43.1,15.1,87.4,5.4,7.1,*,91.5,40.7,1,0,0,1,2010
+49,Zona metropolitana de Poza Rica,30175,Tihuatlán,89774,1,1,0,77.1,18.8,4.1,92.8,5.1,2,*,75.5,47.4,1,1,1,1,2010
+48,Zona metropolitana de Xalapa,30182,Tlalnelhuayocan,16311,1,1,0,31.3,64.6,4.1,92.5,4.1,3.3,*,87.4,113.3,1,1,1,1,2010
+50,Zona metropolitana de Orizaba,30185,Tlilapan,4879,0,0,0.3,51.1,40.4,8.5,81.7,11.6,6.7,*,86.1,28,1,1,1,2,2010
+47,Zona metropolitana de Veracruz,30193,Veracruz,552156,1,1,0,95.4,2,2.6,84.9,4.9,10.2,*,97.7,111.6,1,1,1,1,2010
+53,Zona metropolitana de Córdoba,30196,Yanga,17462,0,0,7.8,80.2,9.6,10.2,89,5.5,5.5,*,69.1,34.2,1,1,1,3,2010
+51,Zona metropolitana de Minatitlán,30199,Zaragoza,10720,0,0,7.1,42.8,48.3,8.9,91.1,8,0.8,*,89,39.3,0,0,0,2,2010
+52,Zona metropolitana de Coatzacoalcos,30206,Nanchital,27094,1,1,0,60.4,35.3,4.4,97.6,1.1,1.3,*,98.8,93.4,1,1,1,1,2010
+55,Zona metropolitana de Mérida,31013,Conkal,9143,0,0,2.1,56.8,38.8,4.4,78.1,11.8,10.1,*,92.2,13.6,0,1,1,3,2010
+55,Zona metropolitana de Mérida,31041,Kanasín,78709,1,1,0,37.8,59.2,3.1,93.4,3.9,2.7,*,98.3,51.7,0,1,1,1,2010
+55,Zona metropolitana de Mérida,31050,Mérida,830732,1,1,0,97.1,0.4,2.5,81.9,5.9,12.2,*,99,59.4,0,1,1,1,2010
+55,Zona metropolitana de Mérida,31100,Ucú,3469,0,0,1.8,62.5,34,3.5,89.6,5.3,5.1,*,79.7,9.6,0,1,1,3,2010
+55,Zona metropolitana de Mérida,31101,Umán,50993,1,1,0,74.8,22.6,2.6,80.7,5.7,13.6,*,95.6,52.5,0,1,1,1,2010
+56,Zona metropolitana de Zacatecas-Guadalupe,32017,Guadalupe,159991,1,1,0,82.3,10.7,7,90.3,5.2,4.5,*,94.5,85.8,1,1,1,1,2010
+56,Zona metropolitana de Zacatecas-Guadalupe,32032,Morelos,11493,0,0,7.8,65.6,19.3,15.1,85.9,6.9,7.2,*,81.5,42.6,0,0,0,2,2010
+56,Zona metropolitana de Zacatecas-Guadalupe,32056,Zacatecas,138176,1,1,0,89.6,5,5.4,76.6,9.6,13.8,*,97,94.1,1,1,1,1,2010
