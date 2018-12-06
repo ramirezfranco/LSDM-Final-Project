@@ -11,7 +11,7 @@ from nltk.corpus import stopwords
 import math
 from pycorenlp import StanfordCoreNLP
 
-news_api_key = '7d337567864a45f19a5fe1a56d31c1bd'
+news_api_key = 'a0849f217c5d4628a7350ce96868c85d'
 crimes = ['homicidio', 'asesinato', 'ejecucion',
 'secuestro', 'rapto', 'privacion ilegal de la libertad', 'levanton',
 'feminicidio']
@@ -50,3 +50,13 @@ def text_from_url(url, content):
 	lens = [len(i) for i in all_text]
 	index_text = lens.index(max(lens))
 	return all_text[index_text]
+
+def similarity_score(dict1,dict2):
+    '''Returns a similarity score to test if two strings
+    in two 'different' news are in reality the same
+    inputs: dict1 and dict2: dictionaries
+    output: score (int)'''
+    score_1 = fuzz.token_set_ratio(dict1['title'], dict2['title'])
+    score_2 = fuzz.token_set_ratio(dict1['description'], dict2['description'])
+    score_3 = fuzz.token_set_ratio(dict1['content'], dict2['content'])
+    return 0.4*score_1 + 0.3*score_2 + 0.3*score_3
