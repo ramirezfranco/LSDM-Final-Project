@@ -17,7 +17,7 @@ cities = list(set(zm_mex['MUN']))
 
 keywords = util.build_keywords_list(cities, crimes)
 
-url_requests = [util.build_url(k, '2018-12-03T00:00:00', '2018-12-03T23:59:59') for k in keywords]
+url_requests = [util.build_url(k, '2018-12-03T00:00:00', '2018-12-03T23:59:59') for k in keywords][:10]
 
 
 def put_in_queue(inputs_list, q):
