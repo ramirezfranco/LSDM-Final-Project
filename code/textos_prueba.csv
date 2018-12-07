@@ -1,0 +1,2458 @@
+,0
+0,"
+    Don Juan Carlos y doña Sofía acuden al tanatorio para despedir a Miguel Primo de Rivera
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	    
+
+	    
+
+    
+    
+    
+    
+
+    
+    
+    
+            
+        
+                            
+            
+                                    
+                
+            
+        
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+		
+	        	
+      
+	
+
+
+
+
+    
+    
+    
+    
+
+    
+
+    					
+									
+									
+				 
+
+
+    
+        
+            window._taboola = window._taboola || [];
+            _taboola.push({article:'auto'});
+            !function (e, f, u, i) {
+                if (!document.getElementById(i)){
+                    e.async = 1;
+                    e.src = u;
+                    e.id = i;
+                    f.parentNode.insertBefore(e, f);
+                }
+            }(document.createElement('script'),
+                    document.getElementsByTagName('script')[0],
+                    '//cdn.taboola.com/libtrc/hola/loader.js',
+                    'tb_loader_script');
+            if(window.performance && typeof window.performance.mark == 'function')
+            {window.performance.mark('tbl_ic');}
+        
+
+    
+    document.createElement( ""picture"" );
+    
+
+    
+		
+		
+	
+
+
+        _atrk_opts = { atrk_acct:""XbAUn1QolK10cv"", domain:""hola.com"",dynamic: true};
+        (function() {
+        var as = document.createElement('script');
+        as.type = 'text/javascript';
+        as.async = true;
+                    as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js"";
+                var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(as, s);
+    })();
+
+
+
+
+
+
+
+
+jQuery(function() {
+    jQuery('body').append(""<script type='text/javascript' async src='https://tagger.opecloud.com/hola/v1/tagger.js'/>"");
+
+    jQuery('body').append(""<noscript><img src='https://tagger.opecloud.com/hola/v1/noscript-image.gif' alt=''/>"");
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+    function loadScript(url) {
+        var script = document.createElement('script');
+        script.src = url;
+        script.type = ""application/javascript"";
+        script.onload = function () {
+
+        };
+
+        document.head.appendChild(script);
+    }
+    loadScript(""//www.hola.com/js/comunes/outbrain.js?v3"");
+
+
+
+    var _prum = [['id', '5857a621aa69593849b95df8'],
+        ['mark', 'firstbyte', (new Date()).getTime()]];
+    (function() {
+        var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+    })();
+
+
+
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '858230647564408');
+    fbq('track', 'PageView');
+
+
+
+	
+	
+
+			
+	
+	
+
+
+    
+        
+        
+            var hb_hola = ""hola_realeza"";
+        
+                    
+                
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function () {
+                googletag.pubads().disableInitialLoad();
+            });
+            var appnexus = true;
+        
+        
+
+
+    
+
+
+
+
+
+
+
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    var adslot0, adslot1, adslot2, adslot3, adslot4;
+    googletag.cmd.push(function() {
+        var mapping1 = googletag.sizeMapping().addSize([0,0], [[2,1],[320,50],[320,100]]).addSize([728,0], [[2,1],[728,90],[728,200]]).addSize([970,0], [[2,1],[970,90],[970,250],[728,90]]).build();
+
+var mapping2 = googletag.sizeMapping().addSize([0,0], [[300,250],[300,600],[320,50],[320,100]]).addSize([728,0], [[728,90],[728,200],[300,250],[300,600]]).addSize([970,0], [[970,90],[970,250],[728,90]]).build();
+
+adslot0 = googletag.defineOutOfPageSlot('/87824813/us.hola/realeza/espana', 'div-hola-slot-outofpage1x1').
+		setTargeting('position','outofpage1x1').
+		setCollapseEmptyDiv(true).
+		addService(googletag.pubads());
+
+	adslot1 = googletag.defineSlot('/87824813/us.hola/realeza/espana', [[970,250],[970,90],[728,200],[728,90],[320,100],[320,50],[2,1]], 'div-hola-slot-megabanner').
+		setTargeting('position','megabanner').
+		setTargeting('place','ATF').
+		setCollapseEmptyDiv(true).
+		defineSizeMapping(mapping1).
+		addService(googletag.pubads());
+
+	adslot2 = googletag.defineSlot('/87824813/us.hola/realeza/espana', [[300,250],[300,600]], 'div-hola-slot-robapaginas').
+		setTargeting('position','robapaginas').
+		setTargeting('place','ATF').
+		setCollapseEmptyDiv(true).
+		addService(googletag.pubads());
+
+	adslot3 = googletag.defineSlot('/87824813/us.hola/realeza/espana', [[300,250],[300,600]], 'div-hola-slot-robainferior').
+		setTargeting('position','robainferior').
+		setTargeting('place','BTF').
+		setCollapseEmptyDiv(true).
+		addService(googletag.pubads());
+
+	adslot4 = googletag.defineSlot('/87824813/us.hola/realeza/espana', [[970,250],[970,90],[728,200],[728,90],[300,600],[300,250],[320,100],[320,50]], 'div-hola-slot-bannerinferior').
+		setTargeting('position','bannerinferior').
+		setTargeting('place','BTF').
+		setCollapseEmptyDiv(true).
+		defineSizeMapping(mapping2).
+		addService(googletag.pubads());
+
+        // El desplazamiento infinito requiere SRA
+        googletag.pubads().enableSingleRequest();
+        // Inhabilite la carga inicial
+        googletag.pubads().disableInitialLoad();
+        // Habilite servicios
+        googletag.enableServices();
+
+    });
+
+
+
+    var pub = ""hola-usa"";
+    var positions = {""OOP"":true,""TOP"":true,""MPU"":true,""MPU2"":true,""TOP2"":true};
+    var totalSlots = 5;
+    var adUnit = ""/87824813/us.hola/realeza/espana"";
+    var isGallery = false;
+
+
+
+
+
+		
+        {  
+		   ""@context"":""https://schema.org"",
+		   ""@type"":""NewsArticle"",
+		   ""mainEntityOfPage"":{  
+		      ""@type"":""WebPage"",
+		      ""@id"":""https://us.hola.com/realeza/casa_espanola/20181204133978/reyes-juan-carlos-sofia-despiden-miguel-primo-rivera/""
+		   },
+		   ""headline"":""Don Juan Carlos y doña Sofía acuden al tanatorio para despedir a Miguel Primo de Rivera"",
+		   ""datePublished"":""2018-12-04T09:34:39-05:00"",
+		   ""dateModified"":""2018-12-04T09:34:39-05:00"",
+		   ""url"":""https://us.hola.com/realeza/casa_espanola/20181204133978/reyes-juan-carlos-sofia-despiden-miguel-primo-rivera/"",
+		   ""author"":{ 
+	   			""@type"": ""Person"", 
+		      	""name"": ""US.HOLA.com""
+		   },
+		   ""articleSection"":""Realeza"",
+		   ""description"":""Los Reyes han querido despedirse del que fuera alcalde de Jerez de la Frontera (Cádiz) entre 1965 y 1971, que ha fallecido a los 84 años en la localidad madrileña de Pozuelo de Alarcón"",
+		   ""publisher"":{  
+		      ""@type"":""Organization"",
+		      ""name"":""US.HOLA.com"",
+		      ""logo"": {  
+		         ""@type"":""ImageObject"",
+		         ""url"":""https:\/\/www.himgs.com/imagenes/hola/logos/logo-usa-web.png"",
+		         ""width"": 196,
+		         ""height"": 60
+		      }
+		   },
+		   		   ""keywords"": [
+		   		""Don Juan Carlos"",""reina Sofía"",""tanatorio"",""Miguel Primo de Rivera""		   ],
+	       ""image"":{
+	           ""@type"": ""ImageObject"",
+	           ""representativeOfPage"":true,
+	           ""url"": ""https://us.hola.com/imagenes/realeza/casa_espanola/20181204133978/reyes-juan-carlos-sofia-despiden-miguel-primo-rivera/0-626-304/reyes-tanatorio-m.jpg"",
+	           ""width"": 745,
+	           ""height"": 745	       }
+
+		}
+    
+
+
+
+
+
+
+
+
+
+
+    #mainHeader .bgheader {
+        min-height: 6.5rem;
+    }
+
+    #mainHeader .linksHeader .followMenu span,
+    #mainHeader .linksHeader .followMenu a,
+    .followMenuScroll span,
+    .followMenuScroll a{
+        font: 0.75rem ""futura-std-bold"", Helvetica, Arial, sans-serif;
+        letter-spacing: .1rem;
+        text-transform: uppercase;
+        color: #333;
+    }
+    [data-type-template=""home""] #mainHeader .linksHeader .followMenu {
+        position: absolute;
+        top: 3.8rem;
+        text-align: left;
+    }
+    #mainHeader .linksHeader .followMenu h3 {
+        margin-bottom: .5rem;
+    }
+    #mainHeader .linksHeader .followMenu ul li,
+    .followMenuScroll ul li {
+        display: inline-block;
+        margin-right: .6rem;
+    }
+    #mainHeader .linksHeader .followMenu a,
+    .followMenuScroll a {
+        font-size: 1rem;
+    }
+    #mainHeader .linksHeader .followMenu {
+        left: 2.2rem;
+    }
+    #mainHeader .linksHeader .followMenu h3 {
+        font: .75rem ""futura-std-bold"", Helvetica, Arial, sans-serif;
+        letter-spacing: .1rem;
+        text-transform: uppercase;
+        color: #333;
+    }
+
+    .followMenuScroll {
+        display: none;
+    }
+
+    .scrollDown .followMenuScroll,
+    .scrollUp .followMenuScroll{
+        display: block;
+    }
+
+    .scrollDown #mainHeader .linksHeader .followMenu,
+    .scrollUp #mainHeader .linksHeader .followMenu {
+        display: none;
+    }
+
+    .followMenuScroll {
+        position: absolute;
+        left: calc(50vw + 620px - 250px);
+        top: 1.3rem;
+        z-index: 9999;
+    }
+
+    .shareNews {
+        display: none;
+        top: 4.9rem;
+        right: .6rem;
+        position: fixed;
+        background-color: rgba(204,0,0,0.85);
+        padding: .4rem .6rem .4rem .4rem;
+        border: 0;
+        width: 3.6rem;
+        color: #fff;
+        transition: top .2s, right .2s;
+    }
+
+    .shareNews .share-list {
+        display: none;
+    }
+
+    .shareNews button {
+        font-size: 1.6rem;
+        background-color: transparent;
+        border: none;
+        -webkit-appearance: none;
+        padding: 0;
+    }
+
+    .shareNews .up,
+    .shareNews.active .share {
+        display: none;
+    }
+
+    .shareNews.active .up {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .shareNews.active .share-list {
+        display: block;
+        padding-top: 1rem;
+    }
+
+    .shareNews.active .share-list li {
+        margin-bottom: 1.2rem;
+    }
+
+    .shareNews.active .share-list li:last-child {
+        margin-bottom: .5rem;
+    }
+
+    .shareNews.active .share-list li a {
+        color: #fff;
+        font-size: 1.3rem;
+    }
+
+    .mainLateralMenu .followMenu {
+        display: none;
+    }
+
+    @media (min-width: 992px) and (max-width: 1140px) {
+        .followMenuScroll {
+            left: calc(50vw + 620px - 310px);
+        }
+    }
+
+    @media (max-width: 425px) {
+        .followMenuScroll.followMenuMobile {
+            /*position: relative;*/
+            /*display: block;*/
+            /*left: auto;*/
+            /*float: left;*/
+            /*top: auto;*/
+            /*margin: .5rem auto 1rem auto;*/
+            /*width: 100%;*/
+            /*text-align: center;*/
+            display: none;
+        }
+
+        .lateralfooter .socialmedia {
+            display: none;
+        }
+
+        #mainHeader {
+            box-shadow: none;
+        }
+
+        [data-type-template=""news""].scrollDown .shareNews,
+        [data-type-template=""news""].scrollUp .shareNews {
+            display: block;
+            text-align: center;
+        }
+
+        .news-share.lateral, .news-share.bottom {
+            display: none;
+        }
+
+        .mainLateralMenu .followMenu {
+            display: block;
+        }
+
+        .mainLateralMenu .followMenu h3 {
+            font: .625rem ""futura-std-bold"", Helvetica, Arial, sans-serif;
+            letter-spacing: .1rem;
+            margin-bottom: .3rem;
+            text-transform: uppercase;
+        }
+
+        .mainLateralMenu .followMenu li {
+            display: inline-block;
+            margin-right: 1rem;
+        }
+
+        .mainLateralMenu .followMenu li a {
+            font-size: .9rem;
+        }
+
+    }
+
+
+
+    
+        
+            
+                
+	
+	
+	
+	
+	
+                Portada de hola.com, tu revista en internet
+            
+        
+        
+            
+            
+        
+        
+            
+                
+                
+            
+            
+                
+                
+            
+            
+
+            
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                    
+            
+                
+            
+        
+                
+            
+                
+            
+        
+            
+    
+    
+        
+    
+    	
+    		 
+    		 	 Suscríbete
+    		 	
+    	
+
+                    
+
+                
+                    
+                        
+                            Celebridades
+                        
+                    
+                
+                
+    
+        
+    
+
+            
+
+                    
+
+                
+                    
+                        
+                            Realeza
+                        
+                    
+                
+                
+    
+        
+    
+
+            
+
+                    
+
+                
+                    
+                        
+                            Belleza
+                        
+                    
+                
+                
+    
+        
+    
+
+            
+
+                    
+
+                
+                    
+                        
+                            Moda
+                        
+                    
+                
+                
+    
+        
+    
+
+            
+
+                    
+
+                
+                    
+                        
+                            Revista
+                        
+                    
+                
+                
+    
+                        
+                                            
+                            SUSCRIPCIONES
+                        
+                                            
+                            Revista Español
+                        
+                                            
+                            Revista Inglés
+                        
+                                            
+                            Digital Español
+                        
+                                            
+                            Media Kit Magazine
+                        
+                                            
+                            Media Kit Digital
+                        
+                                    
+        
+
+            
+            
+                
+                    
+                    Suscríbete a HOLA! USA en español
+                
+            
+        
+            
+            
+                
+                    
+                    Subscribe to HOLA! USA in English
+                
+            
+        
+            
+            
+                
+                    
+                    Compra aquí tu suscripción digital
+                
+            
+        
+    
+
+
+    
+
+            
+
+        
+        
+            
+                
+                    
+                        horóscopo
+                    
+                
+            
+        
+
+        
+            
+                
+                    
+                        
+                            
+                                .st0{fill:#030203;}
+                            
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+    $(document).ready(function(){
+        $('.menu-sections .mainSections li.sliderTrue').each(function(){
+            var owl = $(this).find('.owl-carousel'),
+                    nav_controls = $(this).find('.menuSliderNav');
+            console.log(owl);
+            console.log(nav_controls);
+            owl.owlCarousel({
+                items:4,
+                loop:true,
+                nav:true,
+                navText:['<i data-icon-hola=""q"" class=""icon""></i>', '<i data-icon-hola=""p"" class=""icon""></i>'],
+                slideBy:4,
+                navContainer: nav_controls
+            });
+        })
+    });
+    
+
+
+    
+        
+            
+                
+                    
+	
+	
+	
+	
+	
+                
+            
+            
+                
+            
+            
+            
+               
+                    SUSCRÍBETE
+                
+            
+            
+                
+                    Inicia sesión
+                
+                
+                    
+                
+                
+                     / Cerrar sesión
+                
+            
+            
+                
+                    In English
+                
+            
+            
+                
+                
+                
+                    
+                    
+                
+            
+            
+                
+                    
+                        Portada
+                    
+                
+                
+                    
+                        Celebridades
+                    
+                
+                
+                    
+                        Realeza
+                    
+                
+                
+                    
+                        Belleza
+                    
+                
+                
+                    
+                        Moda
+                    
+                
+            
+            
+                
+                    
+                        
+                            
+
+						
+                        
+                        suscríbete a
+                            
+                        
+                    
+                
+            
+            
+                
+                    
+                        Horóscopo
+                    
+                
+                
+                    
+                        Revista
+                    
+                
+            
+            
+                Apúntate a nuestra newsletter
+            
+            
+                
+                    
+                        HOLA!USA sites
+                            
+                        
+                        
+                            España
+                            México
+                        
+                    
+                    
+                        International sites
+                            
+                        
+                        
+                            HELLO! USA
+                            HELLO! UK
+                            HELLO! Canadá
+                            HELLO! Rusia
+                        
+                    
+
+                                            Gestión de Notificaciones
+                    
+                
+
+                
+                    
+                        
+                            
+                                Síguenos en Facebook
+                            
+                        
+                        
+                            
+                                Síguenos en Twitter
+                            
+                        
+                        
+                            
+                                Síguenos en Instagram
+                            
+                        
+                        
+                            
+                                Síguenos en Pinterest
+                            
+                        
+                    
+                
+            
+        
+    
+ dataLayer = [{""publication"":""ES"",""countryEdition"":""España"",""subdomain"":""www"",""ageUser"":"""",""extension"":""Alta"",""ageRange"":"""",""comscoreGroup"":"""",""editorialGroup"":""hola actualidad"",""searchType"":"""",""searchKeywords"":"""",""contentType"":"""",""section"":""realeza"",""subsection"":""realeza/espanola"",""author"":"""",""documentType"":""noticias"",""sourceUser"":"""",""idUserA"":"""",""idUser"":"""",""genderUser"":"""",""login"":""no"",""dispositivo"":"""",""wildCard"":"""",""promocion"":"""",""idUserB"":"""",""ageUserB"":"""",""ageRangeB"":"""",""genderUserB"":"""",""sourceUserB"":"""",""datePublication"":""20181204""}]        
+                        
+                
+                
+            
+
+
+
+
+
+  var _comscore = _comscore || [];
+  var x =({ c1: ""2"", c2: ""6035866""});
+  if (document.cookie.match('(^|;) ?euconsent=([^;]*)(;|$)') == null) {
+      x.cs_ucfr = 1;
+  }
+  _comscore.push(x);
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+  
+
+  
+
+
+
+
+	
+
+		
+	    
+			
+				
+					
+					
+						
+							
+							
+							
+							
+						
+						
+					
+																					
+																
+										
+											
+											
+										
+									
+															
+							
+							
+													
+												    	
+			
+			
+				
+				
+					
+						
+							
+								
+																		Don Juan Carlos y doña Sofía acuden al tanatorio para despedir a Miguel Primo de Rivera
+									
+									
+									Los Reyes han querido despedirse del que fuera alcalde de Jerez de la Frontera (Cádiz) entre 1965 y 1971, que ha fallecido a los 84 años en la localidad madrileña de Pozuelo de Alarcón								
+								
+
+											
+					                        
+					                            04 de Diciembre de 2018
+					                            
+					                            
+					                        
+		
+					                    						            
+									
+
+									 
+										by Hola.com/EP
+									
+								
+								
+																		
+
+            
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                    
+            
+                
+            
+        
+                
+            
+                
+            
+        
+    								
+							
+						
+					
+				
+			
+			
+				
+					
+						
+							
+								A primera hora de la mañana se conocía la muerte Miguel Primo de Rivera, que fallecía en su domicilio madrileño de Pozuelo de Alarcón a los 84 años después de haber estado enfermo en los últimos meses, tal y como han informado a EFE fuentes familiares. A pesar de los compromisos que don Juan Carlos y doña Sofía tenían esta mañana, los Reyes se han desplazado al tanatorio tras inaugurar en el Caixa Fórum de Madrid la exposición Democracia 1978-2018, en el marco de los actos por el 40 aniversario de la Constitución española.
+
+    window._taboola = window._taboola || [];
+    _taboola.push({
+        mode: 'thumbnails-ma',
+        container: 'taboola-mid-article-carousel',
+        placement: 'Mid Article Carousel',
+        target_type: 'mix'
+    });
+
+
+
+ 
+        
+        	VER GALERÍA
+        	
+        
+    
+
+Amigo personal del exjefe de Estado, con quien se educó, y una de las personalidades más prominentes de la Transición a la democracia, Miguel Primo de Rivera, nieto del dictador del mismo nombre y sobrino del fundador de Falange, fue uno de los proponentes de Adolfo Suárez como presidente del Gobierno. Él fue también el encargado de presentar y defender en las Cortes la Ley para la reforma política.
+
+Entre 1965 y 1971, comenzó su trayectoria política como alcalde de Jerez (Cádiz), ciudad que le distinguió con los títulos de 'Alcalde Perpetuo y Honorario', 'Hijo Adoptivo' y 'Medalla de Oro de la ciudad'. Además fue el creador de la Feria del Caballo y bajo su presidencia se realizó el primer plan de ordenación urbana de esta ciudad. En 1977 fue designado senador por el rey Juan Carlos en las Cortes Constituyentes. 
+
+
+        
+        	VER GALERÍA
+        	
+        
+    
+
+Casado y divorciado de María Oriol Díaz de Bustamante, tuvo nueve hijos, el mayor de ellos Fernando, actual Marqués de Estella, quien ha despedido a don Juan Carlos y doña Sofía a su salida. Posteriormente estuvo casado con María de los Reyes Martínez-Bordiú y Ochoa.
+								
+															
+							
+																
+
+            
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                
+            
+                
+            
+        
+                    
+            
+                
+            
+        
+                
+            
+                
+            
+        
+    							
+							
+
+    
+        
+            Más sobre        
+    
+    
+                            rey Juan Carlos
+                                    reina Sofía
+                    
+
+							
+																	
+									
+											
+															
+						
+						
+
+							
+							
+								
+
+	
+	
+	
+	Últimas Noticias
+
+	
+					
+			
+				
+					
+						
+					
+					Moda
+					Mezclar tendencias en un solo vestido es posible: así lo hizo Adriana Lima
+				
+			
+			
+					
+			
+				
+					
+						
+					
+					Belleza
+					Eiza González presume su belleza... ¡sin una gota de maquillaje!
+				
+			
+			
+					
+			
+				
+					
+						
+					
+					Realeza
+					Meghan Markle y su inesperada aparición en solitario
+				
+			
+			
+					
+			
+				
+					
+						
+					
+					Actualidad
+					No creerás lo que hace Alejandra Espinoza para que su hijo la obedezca
+				
+			
+			
+					
+			
+				
+					
+						
+					
+					Cine
+					Alejandro González Iñárritu, homenajeado por la Academia de Hollywood en una noche de glamour
+				
+			
+			
+			
+
+							
+							
+	
+				
+	
+		Suscríbete
+		
+			
+				
+
+						
+			
+		
+		
+			a la revista
+			+ info
+		
+	
+	
+
+													
+						
+					
+				
+				
+					
+        
+                    Leer más
+            
+    
+                                    
+            realeza
+            
+                
+                                        
+                                    
+                Así celebran Navidad las Casas Reales de Europa
+            
+        
+                                    
+            realeza
+            
+                
+                                        
+                                    
+                El Rey Juan Carlos se hizo presente en la regata ¡HOLA! Ladies Cup
+            
+        
+                                    
+            realeza
+            
+                
+                                        
+                                    
+                Familias Reales asisten al funeral de la Reina Fabiola de Bélgica
+            
+        
+                                    
+            realeza
+            
+                
+                                        
+                                    
+                Emotivo adiós de don Juan Carlos y doña Sofía a Fabiola de Bélgica
+            
+        
+            
+    				
+			
+			
+			
+		    
+			    		           	
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({
+        mode: 'thumbnails-c',
+        container: 'taboola-below-article-carousel',
+        placement: 'Below Article Carousel',
+        target_type: 'mix'
+    });
+
+	
+											
+									
+	        
+	        
+	            
+	                volver a
+	                
+	                Realeza
+	            
+	        
+	    
+	
+
+	
+
+    
+        
+            
+                
+                    
+                    
+	
+	
+	
+	
+	
+                
+                 © 2000-2018, HOLA S.L.
+            
+            
+                
+                    HOLA!USA sites
+                        
+                    
+                    
+                        España
+                        México
+                    
+                
+                
+                    International sites
+                        
+                    
+                    
+                        HELLO! USA
+                        HELLO! UK
+                        HELLO! Canadá
+                        HELLO! Rusia
+                    
+                
+                
+                    Privacidad
+                    Política de cookies
+                    Media Kit
+                        
+                    
+                    
+                        Media Kit Magazine
+                        Media Kit Digital
+                    
+
+                    Contacto
+                
+                
+
+                
+            
+            
+                
+                    
+                        
+                            
+                                Síguenos en Facebook
+                            
+                        
+                        
+                            
+                                Síguenos en Twitter
+                            
+                        
+                        
+                            
+                                Síguenos en Instagram
+                            
+                        
+                        
+                            
+                                Síguenos en Pinterest
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+	
+
+
+
+
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = ""//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.6"";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+
+    (function(w, d, s, id) {
+        w.PUBX=w.PUBX || {pub: ""hola_usa"", discover: false, lazy: true};
+        var js, pjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id; js.async = true;
+        js.src = ""//main.pubexchange.com/loader.min.js"";
+        pjs.parentNode.insertBefore(js, pjs);
+    }(window, document, ""script"", ""pubexchange-jssdk""));
+
+
+
+    window._tfa = window._tfa || [];
+    _tfa.push({ notify: 'action',name: 'page_view' });
+
+
+
+
+
+
+
+
+
+
+
+    function subscribeToChannels(channels, success, error){
+        success = (typeof success == 'function') ? success : function(){};
+        error = (typeof error == 'function') ? error : function(){};
+        navigator.indigitall.subscribe(channels, success, error);
+    }
+    function success (success){
+        console.log (success);
+    }
+    function error (error){
+        console.log (error);
+    }
+
+    document.addEventListener('indigitallReady', function() {
+        var defaultChannels = ['actualidad'];
+        navigator.indigitall.loadIndigitall('/indigitall/',function(){
+            subscribeToChannels(defaultChannels);
+        });
+    });
+
+
+
+
+
+
+"
+1,"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KKXTKGP');    Juicio a El Chapo Guzmán en Nueva York revela intimidades de su ascenso al poder en el Cártel de Sinaloa |  Mundo | EEUU | El Comercio Perú
+        {""@context"":""http://schema.org"",""@type"":""Organization"",""@id"":""https://elcomercio.pe/#publisher"",""name"":""ElComercio.pe"",""url"":""https://elcomercio.pe/"",""logo"":{""@type"":""ImageObject"",""url"":""https://elcomercio.pe/bundles/appcms/images/elcomercio/logo-elcomercio-316x60.png"",""width"":116,""height"":60},""sameAs"":[""https://www.facebook.com/elcomercio.pe"",""https://twitter.com/elcomercio_peru"",""https://plus.google.com/u/0/117031244658300634975/"",""https://www.youtube.com/user/VideosComercio""]}
+    {""@context"":""http://schema.org"",""@type"":""Organization"",""name"":""El Comercio"",""url"":""http://elcomercio.pe/"",""logo"":""http://cdn.elcomercio.e3.pe/f/seo/logo_elcomercio.jpg"",""sameAs"":[""http://www.facebook.com/elcomercio.pe"",""http://twitter.com/elcomercio"",""https://plus.google.com/u/0/117031244658300634975/"",""https://www.youtube.com/user/VideosComercio""]}{""@context"":""http://schema.org"",""@type"":""NewsArticle"",""datePublished"":""2018-12-03T17:01:16-05:00"",""dateModified"":""2018-12-03T17:01:16-05:00"",""headline"":""C\u00f3mo fue el ascenso al poder de El Chapo y otros secretos revelados en el juicio al narco"",""description"":""El juicio en Estados Unidos a Joaqu\u00edn 'El Chapo' Guzm\u00e1n ha puesto al desnudo un cuadro de desenfreno y excesos durante su ascenso hasta convertirse en el m\u00e1ximo capo del narcotr\u00e1fico mexicano&nbsp;que supera cualquier gui\u00f3n cinematogr\u00e1fico"",""articleBody"":""Nueva York. El juicio en Estados Unidos a Joaqu\u00edn \u201cEl Chapo\u201d Guzm\u00e1n ha puesto al desnudo un cuadro de desenfreno y excesos durante su ascenso hasta convertirse en el m\u00e1ximo capo del narcotr\u00e1fico mexicano que supera cualquier gui\u00f3n cinematogr\u00e1fico. Desde que comenz\u00f3 el juicio el 13 de noviembre, los testigos han descrito c\u00f3mo Guzm\u00e1n hizo cavar t\u00faneles bajo la frontera y utilizar latas de chiles jalape\u00f1os para introducir toneladas de coca\u00edna en Estados Unidos en los a\u00f1os 90 y 00. El C\u00e1rtel de Sinaloa, al que algunos de sus miembros llaman \u201cLa Federaci\u00f3n\u201d, ganaba cientos de millones de d\u00f3lares, principalmente en moneda estadounidense, y a veces el volumen de billetes era tan grande que la pandilla deb\u00eda ocultarlo en sus guaridas hasta decidir qu\u00e9 hacer con \u00e9l. Guzm\u00e1n ten\u00eda un zool\u00f3gico privado, una pistola incrustada con diamantes y tambi\u00e9n usaba parte del dinero para pagar a polic\u00edas y pol\u00edticos. Esto dice un elenco de personajes que han declarado desde el estrado, desde ex miembros del cartel hasta un capo del narco colombiano que alter\u00f3 su rostro con cirug\u00eda pl\u00e1stica en un intento fallido para que no lo reconocieran. Un vistazo a puntos destacados de las declaraciones en el juicio, que se prev\u00e9 finalizar\u00e1 a principios del a\u00f1o pr\u00f3ximo: TONELADAS DE CONTRABANDO El C\u00e1rtel de Sinaloa desarroll\u00f3 muchos m\u00e9todos ingeniosos para el contrabando de drogas, pero quiz\u00e1s ninguno super\u00f3 al de los jalape\u00f1os enlatados La Comadre. El ex miembro del c\u00e1rtel Miguel \u00c1ngel Mart\u00ednez declar\u00f3 en la corte federal en Brooklyn que supervisaba un dep\u00f3sito en la Ciudad de M\u00e9xico donde los trabajadores ocultaban la droga en las latas para que los camiones la transportaran al otro lado de la frontera. Los camiones transportaban 3.000 latas por vez hasta Los \u00c1ngeles, asegur\u00f3. Unas 25 a 30 toneladas de coca\u00edna, por valor de 400 a 500 millones de d\u00f3lares, cruzaban la frontera cada a\u00f1o. Los trabajadores que enlataban la coca \u201cse intoxicaban porque cuando uno presionaba los kilos, soltaban coca\u00edna al aire\u201d. La recaudaci\u00f3n iba a Tijuana, a donde Guzm\u00e1n enviaba sus tres jets privados a recogerla, dijo Mart\u00ednez. Cada avi\u00f3n transportaba en promedio 10 millones de d\u00f3lares. Ese dinero ser\u00eda para financiar lujos como una casa de playa en Acapulco con un zool\u00f3gico privado y un viaje a Suiza donde Guzm\u00e1n recib\u00eda tratamiento \u201ccontra el envejecimiento\u201d. SOBORNOS, LO HABITUAL Un ex miembro del cartel llamado Jes\u00fas Zambada subi\u00f3 al estrado para relatar c\u00f3mo vigilaba toneladas de coca\u00edna en un dep\u00f3sito en Ciudad de M\u00e9xico. Pero su tarea m\u00e1s importante era pagar unos 300.000 d\u00f3lares por mes a las autoridades, un precio que le granje\u00f3 a Guzm\u00e1n una escolta policial despu\u00e9s de una de sus c\u00e9lebres fugas de la prisi\u00f3n. Declar\u00f3 que el semblante de Guzm\u00e1n se alter\u00f3 al ver a la polic\u00eda de la Ciudad de M\u00e9xico que se acercaba al auto. \u201cNo te preocupes\u201d, le dijo Zambada. \u201cEs gente nuestra. Nadie nos va a tocar desde aqu\u00ed en adelante\u201d. Algo parecido suced\u00eda en las c\u00e1rceles. Mart\u00ednez dijo que cuando \u00e9l y Guzm\u00e1n visitaron a un capo en la c\u00e1rcel, los presos les ofrecieron una comida digna del restaurante m\u00e1s lujoso. \u201cHab\u00eda una banda musical y de todo lo que uno quisiera comer. Whisky, co\u00f1ac\u201d, dijo Mart\u00ednez. \u201cPod\u00edas elegir entre langosta y solomillo y fais\u00e1n\u201d. LA M\u00c1SCARA El testigo de cargo m\u00e1s reciente se ha destacado por su apariencia m\u00e1s que por sus declaraciones. El ex narco colombiano Juan Carlos Ram\u00edrez Abad\u00eda es conocido sobre todo por sus cirug\u00edas pl\u00e1sticas. Dijo al jurado la semana pasada que tuvo al menos tres para alterar su rostro. La cirug\u00eda alter\u00f3 \u201cmi mand\u00edbula, mis p\u00f3mulos, mis ojos, mi boca, mis orejas, mi nariz\u201d, dijo. Su declaraci\u00f3n permite situarlo en lo m\u00e1s alto del narcopante\u00f3n con Guzm\u00e1n: dijo que envi\u00f3 400.000 kilos, orden\u00f3 1509 asesinatos y amas\u00f3 una fortuna tan grande que entre 1.000 millones de d\u00f3lares tras su arresto en Brasil en el 2007. Ram\u00edrez Abad\u00eda dijo que su modelo empresario inclu\u00eda una divisi\u00f3n dedicada exclusivamente a invertir dinero de la droga en sobornos a las autoridades. Declar\u00f3 que evidentemente Guzm\u00e1n ten\u00eda un dispositivo similar cuando arribaban aviones con coca\u00edna colombiana a M\u00e9xico, donde los recib\u00edan agentes de polic\u00eda que ayudaban a descargar la mercader\u00eda. Fuente: AP "",""mainEntityOfPage"":{""@type"":""WebPage"",""@id"":""https://elcomercio.pe/mundo/eeuu/juicio-chapo-guzman-nueva-york-revela-intimidades-ascenso-cartel-sinaloa-noticia-583925""},""image"":[{""representativeOfPage"":true,""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c059f29879d1.jpeg"",""description"":""Juicio a El Chapo Guzm\u00e1n en Nueva York revela intimidades de su ascenso al poder en el C\u00e1rtel de Sinaloa. (Bloomberg)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c059a8a69415.jpeg"",""description"":""Juicio a El Chapo Guzm\u00e1n: Chupeta dice que el l\u00edder del C\u00e1rtel de Sinaloa enviaba tantos aviones con droga a M\u00e9xico que parec\u00eda invasi\u00f3n. (Reuters)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c0521621cbde.jpeg"",""description"":""Gonzalo Rodr\u00edguez Gacha era llamado el \""ministro de guerra\"" del C\u00e1rtel de Medell\u00edn, la banda de Pablo Escobar."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/11/30/5c01e701b5062.jpeg"",""description"":""Juicio a El Chapo Guzm\u00e1n: Los capos colombianos que reclut\u00f3 el FBI para acorralar al l\u00edder del C\u00e1rtel de Sinaloa. (EFE)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/11/30/5c01c059ee508.jpeg"",""description"":""Este colombiano conocido como \""Chupeta\"" acept\u00f3 declarar en contra del Chapo con el objetivo de conseguir una reducci\u00f3n de condena."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c059c102e6b6.jpeg"",""description"":""La pistola de El Chapo Guzm\u00e1n incrustada con diamantes. (AP)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c057741381cf.jpeg"",""description"":""Juicio a El Chapo Guzm\u00e1n: Chupeta dice que el l\u00edder del C\u00e1rtel de Sinaloa enviaba tantos aviones con droga a M\u00e9xico que parec\u00eda invasi\u00f3n."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c059d31eae55.jpeg"",""description"":""Las latas de chiles donde El Chapo Guzm\u00e1n transportaba droga. (AP)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c0577c592613.jpeg"",""description"":""La foto de un avi\u00f3n de El Chapo Guzm\u00e1n que fue mostrada en el juicio en su contra. (AP)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c059e16afc79.jpeg"",""description"":""El narco Jes\u00fas Zambada tambi\u00e9n declar\u00f3 contra El Chapo. (Reuters)."",""height"":418,""width"":696},{""@type"":""ImageObject"",""url"":""https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/12/03/5c057813c4309.jpeg"",""description"":""Juan Carlos Ram\u00edrez, alias \""Chupeta\"", llega al tribunal de Nueva York donde es juzgado El Chapo Guzm\u00e1n. (AP)."",""height"":418,""width"":696}],""video"":[],""author"":{""@type"":""Person"",""name"":""Redacci\u00f3n EC""},""publisher"":{""@type"":""Organization"",""name"":""El Comercio"",""logo"":{""@type"":""ImageObject"",""url"":""https://elcomercio.pe/bundles/appcms/images/elcomercio/logo-elcomercio-316x60.png?1544116214"",""height"":60,""width"":316}},""keywords"":[""intimidades"",""ascenso"",""sinaloa"",""juicio"",""guzman""]}{""@context"":""https://schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https://elcomercio.pe/mundo"",""name"":""Mundo""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https://elcomercio.pe/mundo/eeuu"",""name"":""Eeuu""}}]}{""@context"":""https://schema.org"",""@type"":""ItemList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""url"":""https://elcomercio.pe/mundo/eeuu/juicio-chapo-guzman-chupeta-dice-lider-cartel-sinaloa-enviaba-aviones-droga-mexico-parecia-invasion-noticia-583865""},{""@type"":""ListItem"",""position"":2,""url"":""https://elcomercio.pe/mundo/narcotrafico/25-anos-muerte-pablo-escobar-mexicano-poderoso-sanguinario-narco-sombra-lider-cartel-medellin-noticia-583714""},{""@type"":""ListItem"",""position"":3,""url"":""https://elcomercio.pe/mundo/actualidad/pablo-escobar-legado-oscuro-resiste-morir-medellin-colombia-noticia-583524""},{""@type"":""ListItem"",""position"":4,""url"":""https://elcomercio.pe/mundo/latinoamerica/pablo-escobar-secretos-catedral-carcel-estuvo-recluido-capo-cartel-medellin-noticia-583521""}]}
+        WebFontConfig = {
+            google: {
+                families: ['Open+Sans:400,600,700,800']
+            }
+        };
+        (function(d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';
+            wf.async = 'true';
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    
+                !function(n){n.config=n.config||function(){var n={};return{set:function(c,t){n[c]=t},get:function(c){return n[c]}}}()}(gec=window.gec||{});
+    gec.config.set('site', {
+        sitio: ""elcomercio"",
+        baseurl: 'http://elcomercio.pe',
+        UrlAssets: 'https://assets.elcomercio.pe',
+        urlAjax: 'https://d1jic1oa5q370.cloudfront.net',
+        urlActual: ""elcomercio/mundo/eeuu/juicio-chapo-guzman-nueva-york-revela-intimidades-ascenso-cartel-sinaloa-noticia-583925"",
+        urlCategory: ""elcomercio/mundo/eeuu"",
+        noticiaId: ""583925""
+    });
+            
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 57773;
+    _sf_async_config.domain = 'elcomercio.pe';
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+var OneSignal=window.OneSignal||[];!function(e){OneSignal.push([""sendTags"",{portada:""categoria""}]),OneSignal.push([""setDefaultTitle"",""El Comercio.pe""]),OneSignal.push([""init"",{appId:""58df6fa6-b0db-449e-9bac-16d020a77a65"",safari_web_id:""web.onesignal.auto.41aef4b6-51a4-4778-92bc-f3aa3e26acde"",autoRegister:!0,notifyButton:{enable:!1},subdomainName:""elcomercioperu"",welcomeNotification:{disable:!0},promptOptions:{siteName:""El Comercio.pe"",actionMessage:""El Comercio.pe quiere enviarte las noticias más relevantes."",exampleNotificationTitle:""Este es un ejemplo de notificación"",exampleNotificationMessage:""Las notificaciones aparecerán en el escritorio"",exampleNotificationCaption:""(puede cancelar la suscripción en cualquier momento)"",acceptButtonText:""CONTINUAR"",cancelButtonText:""NO GRACIAS"",autoAcceptTitle:""Click en Permitir""},persistNotification:!1}]);var i=null;OneSignal.push(function(){OneSignal.getUserId().then(function(n){e.getElementById(""suscrip-gest"").innerHTML+='<span><a href="""" onclick=""subscribeOneSignal(this, event)"" class=""btnNotif"" id=""btnNotif"">Activar Notificaciones <span class=""btnNotif-switch""></span></a></span>';var s=e.getElementById(""btnNotif"");console.log(""user: ""+n),null==n?s.classList?s.classList.remove(""on""):s.className=s.className.replace(new RegExp(""(^|\\b)""+""on"".split("" "").join(""|"")+""(\\b|$)"",""gi""),"" ""):(i=n,s.classList?s.classList.add(""on""):s.className+="" on"",OneSignal.push([""getNotificationPermission"",function(e){}]),OneSignal.isPushNotificationsEnabled(function(e){e?s.classList?s.classList.add(""on""):s.className+="" on"":s.classList?s.classList.remove(""on""):s.className=s.className.replace(new RegExp(""(^|\\b)""+""on"".split("" "").join(""|"")+""(\\b|$)"",""gi""),"" "")}))})}),OneSignal.push(function(){OneSignal.on(""subscriptionChange"",function(n){var s=e.getElementById(""btnNotif"");1==n?(OneSignal.getUserId().then(function(e){i=e}),s.classList?s.classList.add(""on""):s.className+="" on""):0==n&&(OneSignal.getUserId().then(function(e){i=e}),s.classList?s.classList.remove(""on""):s.className=s.className.replace(new RegExp(""(^|\\b)""+""on"".split("" "").join(""|"")+""(\\b|$)"",""gi""),"" ""))})}),window.subscribeOneSignal=function(e,n){n.preventDefault();(e.classList?e.classList.contains(""on""):new RegExp(""(^| )on( |$)"",""gi"").test(e.className))?OneSignal.setSubscription(!1):null!=i?OneSignal.setSubscription(!0):OneSignal.registerForPushNotifications({modalPrompt:!0})}}(document);
+var win = window;
+var doc = document;
+var splSec = 'Mundo';
+var splSs = 'Eeuu';
+var IS_MOBILE = (win.innerWidth || doc.documentElement.clientWidth || doc.body.clientWidth) < 738 && navigator.appVersion.indexOf(""Mobile"") >= 0;
+var availableSpaces = IS_MOBILE ? [""Publi"",""Daily"",""Publireportaje"",""MktContenidos"",""Suplementos"",""ZonaAuspiciada"",""ZonaAuspiciada2"",""ZonaAuspiciada3"",""ZonaAuspiciada4"",""ZonaAuspiciada0"",""AuspicioTop2"",""AuspicioTop3"",""Jalador"",""movil_0""] : [""Expandible"",""Publijalador"",""DailyBanner"",""MktContenidos"",""Publireportaje"",""ZonaAuspiciada"",""AuspicioTop"",""AuspicioCintillo"",""Suplementos"",""ZonaAuspiciada"",""ZonaAuspiciada2"",""ZonaAuspiciada0"",""ZonaAuspiciada3"",""ZonaAuspiciada4"",""Publi"",""AuspicioTop2"",""AuspicioTop3"",""toma_de_canal"",""Jalador""];
+
+function eplAD4M(val1, val2){}
+
+    
+        Módulos Temas Día
+    
+    
+
+     @media screen and (max-width:640px) {#ads-movil-movil_2{display:block !important; } } .site-trends .trends-items { height: 34px; overflow: hidden; } #ads_m_movil0{text-align:center;} @media screen and (max-width:640px){.box-banner, .box-separator, .flows-grid, .box-636, .flow-2x1, .flow-2x2, .mod-gallery, .mod-videos { width: 100% } .flow-2x1 .flow-image img {height: 424px; margin-left: -50%; width: auto; } .site-header .button-mobile-menu { background-color: transparent; border-radius: 0; color: #333; display: block; height: 45px; left: 0; position: absolute; text-align: center; top: 0; width: 45px;} .site-header .logo { width: 160px; } .site-header .button-mobile-menu i.icon-close, .site-header .show-megamenu { display: none; } .site-header .button-mobile-menu i { font-size: 14px; line-height: 45px; } .site-header .site-logo { height: 45px; padding-top: 10px; position: relative; } .ui-orbit .ui-arrows { display: none; } .top-flow .flow-category, .top-flow .flow-title { font-size: 15px!important; } .top-flow .flow-detail { max-width: 80%!important; } .top-flow { min-height: auto; padding-bottom: 10px; padding-top: 10px; } .box-separator .section-title { font-size: 15px; height: 60px; margin-bottom: 3px; padding: 24px 0 0 15px; position: relative; text-transform: uppercase; } .box-separator { border-top: 1px solid #d0d0d0; margin-bottom: 6px; padding: 0; } } @media screen and (max-width: 360px) {.live-scorer .box-game .game-team {padding-top: 50px; } } @media screen and (max-width: 360px) {.live-scorer .box-game .game-team {padding-top: 50px; } } 
+#ads_d_ticker iframe {
+ margin-bottom:10px	
+}
+
+Hoy
+    
+    
+    
+                   #ads_d_wide{margin: 10px 0px;} #ads_d_middle1{margin: 10px 0px;}
+
+Ingresa a tu Cuenta
+                    .login-mpp-d .go_peruid{width:100% !important; padding: 0px 10px 0px 10px;}
+                    .login-mpp-d .go_peruid:hover{text-decoration:none !important;}
+                    .login-mpp-d .go_peruid i{background: black;color: #f8d002; padding: 5px; border-radius: 50%;margin-right:5px}
+                 Cómo fue el ascenso al poder de El Chapo y otros secretos revelados en el juicio al narcoLo últimoOpiniónPolíticaEconomíaPerúLimaMundoLucesDTSomosVer Más TV+Redes SocialesCienciasTecnologíaWUFEl DominicalHoróscopoEdición ImpresaViùBlogs¡Vamos!VideosGaleríasCasa y MásEl Comercio TvMenú PerúRUEDAS Y TUERCASSUSCRÍBETE+-
+                        .login-mpp-m{
+                            display:none;
+                        }
+                        @media screen and (max-width: 1023px){
+                            .login-mpp-m{display:block; right: 10px;background: black;color: #f8d002;border-radius: 50%;padding: 7px 5px;width: 35px;height: 35px;top: 5px;position: absolute; cursor:pointer; text-decoration:none; font-weight: bold; line-height: 20px;font-size: 16px;text-transform: uppercase; text-align: center}
+                            .login-mpp-m i{ color: #f8d002;}
+                            .ui-fixed .news-share-follow{margin-right:50px;width:50%;}
+                            .ui-fixed .reader-up .box-content-subscribetebutton{display: inline-block !important;}
+                        }
+                    
+
+(function() {
+
+        document.getElementById(""show-megamenu-t"").addEventListener(""click"", function(){
+
+            var header_fixed = document.getElementsByClassName(""header-fixed"");
+
+            if(!header_fixed[0].classList.contains(""ui-fixed"")){
+                var show_megamenu = document.getElementsByClassName(""show-megamenu"");
+                var site_menu_t = document.getElementsByClassName(""site-menu-t"");
+                if(show_megamenu[0].classList.contains(""ui-active"")){
+                    site_menu_t[0].className = ""site-menu site-menu-t"";
+                }else{
+                    site_menu_t[0].className = ""site-menu site-menu-t ui-active"";
+                }
+            }
+           
+            
+        });
+})();
+
+
+Lo últimoOpiniónPolíticaEconomíaPerúLimaMundoLucesDTSomosVer Más eplAD4M(""Top"", ""m"");eplAD4M(""Ticker"", ""m"");Más en EEUU
+                                                                                    
+                
+                                                            
+                    
+                        El caso archivado de un pedófilo millonario que salpica al gobierno de Trump
+                    
+                
+                                                            
+                    
+                        El féretro de George H. W. Bush recorre Texas en tren | FOTOS
+                    
+                eplAD4M(""Publijalador"", ""d"");
+                        
+                    
+                                                            
+                    
+                        Trump contrata a inmigrantes ""sin papeles"" para limpiar su club, según New York Times
+                    
+                
+                                                            
+                    
+                        Obliga a su hija a caminar 1,5 km a la escuela por hacer 'bullying' a compañero [VIDEO]
+                    
+                
+                                                            
+                    
+                        Tennessee ejecutará en silla eléctrica a preso que pasó 36 años en corredor de la muerte
+                    
+                
+                                                            
+                    
+                        Trump asegura que si no fuera por la trama rusa su aprobación sería del 75%
+                    
+                
+                                                                    
+                                            
+                            
+    
+
+              
+                
+              
+            
+            
+              
+                
+              
+            
+            
+                
+                    
+                
+            
+
+            
+            
+              
+              
+              
+            
+            
+              
+                +
+                -
+              
+            
+            
+
+                                        
+                    
+                    
+                    
+
+                        
+                                            EEUU
+                                        
+                
+
+                        
+                                    
+
+
+
+
+
+                            Cómo fue el ascenso al poder de El Chapo y otros secretos revelados en el juicio al narco
+El juicio en Estados Unidos a Joaquín 'El Chapo' Guzmán ha puesto al desnudo un cuadro de desenfreno y excesos durante su ascenso hasta convertirse en el máximo capo del narcotráfico mexicano que supera cualquier guión cinematográfico
+
+            
+                            
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    	                	                	                
+
+
+    Juicio a El Chapo Guzmán en Nueva York revela intimidades de su ascenso al poder en el Cártel de Sinaloa. (Bloomberg).
+
+
+                                    
+                    
+
+        
+            
+            
+                            eplAD4M(""Daily"", ""m"");
+                eplAD4M(""Boton"", ""m"");
+            
+                                                                                                    
+                                                                        
+                            
+                                            
+    
+                   Redacción EC 
+         
+    
+        03.12.2018 / 05:01 pm
+    
+
+                                        
+                        
+                            
+
+                                                                                                            eplAD4M(""InlinePrg"",""m"");eplAD4M(""InlinePrg"",""d"");
+                                        
+                                                                                                    
+                                                                    
+
+                                                                                                                                            
+
+                                
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+
+                                                                    
+
+
+
+                                    
+
+                                                                                                Nueva York. El juicio en Estados Unidos a Joaquín “El Chapo” Guzmán ha puesto al desnudo un cuadro de desenfreno y excesos durante su ascenso hasta convertirse en el máximo capo del narcotráfico mexicano que supera cualquier guión cinematográfico.
+Desde que comenzó el juicio el 13 de noviembre, los testigos han descrito cómo Guzmán hizo cavar túneles bajo la frontera y utilizar latas de chiles jalapeños para introducir toneladas de cocaína en Estados Unidos en los años 90 y 00.
+
+    Notas relacionadas
+    
+        
+    
+                
+                    
+                    
+
+                'Chupeta': 'El Chapo' enviaba tantos aviones con droga a México que parecía invasión
+
+            
+            
+                
+                    
+                    
+
+                Quién era 'El Mexicano', el poderoso y sanguinario narco a la sombra de Pablo Escobar
+
+            
+            
+                
+                    
+                    
+
+                Los capos colombianos que reclutó el FBI para acorralar a El Chapo Guzmán
+
+            
+            
+                
+                    
+                    
+
+                El frío testimonio de Chupeta, el narco que cambió su cara y compromete a El Chapo
+
+            
+            
+
+
+El Cártel de Sinaloa, al que algunos de sus miembros llaman “La Federación”, ganaba cientos de millones de dólares, principalmente en moneda estadounidense, y a veces el volumen de billetes era tan grande que la pandilla debía ocultarlo en sus guaridas hasta decidir qué hacer con él. Guzmán tenía un zoológico privado, una pistola incrustada con diamantes y también usaba parte del dinero para pagar a policías y políticos.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    La pistola de El Chapo Guzmán incrustada con diamantes. (AP).
+
+Esto dice un elenco de personajes que han declarado desde el estrado, desde ex miembros del cartel hasta un capo del narco colombiano que alteró su rostro con cirugía plástica en un intento fallido para que no lo reconocieran.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    El narco colombiano Chupeta alteró su rostro para que sus enemigos no lo reconocieran. (AP).
+
+Un vistazo a puntos destacados de las declaraciones en el juicio, que se prevé finalizará a principios del año próximo:
+TONELADAS DE CONTRABANDO
+El Cártel de Sinaloa desarrolló muchos métodos ingeniosos para el contrabando de drogas, pero quizás ninguno superó al de los jalapeños enlatados La Comadre.
+El ex miembro del cártel Miguel Ángel Martínez declaró en la corte federal en Brooklyn que supervisaba un depósito en la Ciudad de México donde los trabajadores ocultaban la droga en las latas para que los camiones la transportaran al otro lado de la frontera.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    Las latas de chiles donde El Chapo Guzmán transportaba droga. (AP).
+
+Los camiones transportaban 3.000 latas por vez hasta Los Ángeles, aseguró. Unas 25 a 30 toneladas de cocaína, por valor de 400 a 500 millones de dólares, cruzaban la frontera cada año.
+Los trabajadores que enlataban la coca “se intoxicaban porque cuando uno presionaba los kilos, soltaban cocaína al aire”.
+La recaudación iba a Tijuana, a donde Guzmán enviaba sus tres jets privados a recogerla, dijo Martínez. Cada avión transportaba en promedio 10 millones de dólares.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    La foto de un avión de El Chapo Guzmán que fue mostrada en el juicio en su contra. (AP).
+
+Ese dinero sería para financiar lujos como una casa de playa en Acapulco con un zoológico privado y un viaje a Suiza donde Guzmán recibía tratamiento “contra el envejecimiento”.
+SOBORNOS, LO HABITUAL
+Un ex miembro del cartel llamado Jesús Zambada subió al estrado para relatar cómo vigilaba toneladas de cocaína en un depósito en Ciudad de México. Pero su tarea más importante era pagar unos 300.000 dólares por mes a las autoridades, un precio que le granjeó a Guzmán una escolta policial después de una de sus célebres fugas de la prisión.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    El narco Jesús Zambada también declaró contra El Chapo. (Reuters).
+
+Declaró que el semblante de Guzmán se alteró al ver a la policía de la Ciudad de México que se acercaba al auto. “No te preocupes”, le dijo Zambada. “Es gente nuestra. Nadie nos va a tocar desde aquí en adelante”.
+Algo parecido sucedía en las cárceles. Martínez dijo que cuando él y Guzmán visitaron a un capo en la cárcel, los presos les ofrecieron una comida digna del restaurante más lujoso.
+“Había una banda musical y de todo lo que uno quisiera comer. Whisky, coñac”, dijo Martínez. “Podías elegir entre langosta y solomillo y faisán”.
+LA MÁSCARA
+El testigo de cargo más reciente se ha destacado por su apariencia más que por sus declaraciones.
+El ex narco colombiano Juan Carlos Ramírez Abadía es conocido sobre todo por sus cirugías plásticas. Dijo al jurado la semana pasada que tuvo al menos tres para alterar su rostro.
+La cirugía alteró “mi mandíbula, mis pómulos, mis ojos, mi boca, mis orejas, mi nariz”, dijo.
+
+
+                                    
+                                        
+
+
+	                	                	                
+
+
+                                    Juan Carlos Ramírez, alias ""Chupeta"", llega al tribunal de Nueva York donde es juzgado El Chapo Guzmán. (AP).
+
+Su declaración permite situarlo en lo más alto del narcopanteón con Guzmán: dijo que envió 400.000 kilos, ordenó 1509 asesinatos y amasó una fortuna tan grande que entre 1.000 millones de dólares tras su arresto en Brasil en el 2007.
+Ramírez Abadía dijo que su modelo empresario incluía una división dedicada exclusivamente a invertir dinero de la droga en sobornos a las autoridades. Declaró que evidentemente Guzmán tenía un dispositivo similar cuando arribaban aviones con cocaína colombiana a México, donde los recibían agentes de policía que ayudaban a descargar la mercadería.
+Fuente: AP
+
+    
+        Vea también
+        
+            
+        
+                    
+                        
+                        
+                    'Chupeta': 'El Chapo' enviaba tantos aviones con droga a México que parecía invasión
+
+                
+            
+                    
+                        
+                        
+                    Quién era 'El Mexicano', el poderoso y sanguinario narco a la sombra de Pablo Escobar
+
+                
+            
+                    
+                        
+                        
+                    Pablo Escobar, un legado oscuro que se resiste a morir en Medellín | FOTOS
+
+                
+            
+                    
+                        
+                        
+                    Así se escapó Pablo Escobar de La Catedral, la cárcel que él mismo construyó
+
+                
+            
+                    
+                        
+                        
+                    ""¡Lo mataron!"": Así viví en Medellín la fuga, persecución y muerte de Pablo Escobar
+
+                
+            
+                    
+                        
+                        
+                    3 cosas que cambiaron para siempre después de la muerte de Pablo Escobar
+
+                
+            
+                    
+                        
+                        
+                    Cifras de la era de terror a 25 años de la muerte de Pablo Escobar
+
+                
+            
+                    
+                        
+                        
+                    ¿Cómo murió hace 25 años Pablo Escobar?: 3 de las teorías sobre quién le disparó
+
+                
+            
+                    
+                        
+                        
+                    Muerte de Pablo Escobar: “Que se pudra en el infierno, ese señor destruyó a mi familia”
+
+                
+            
+                    
+                        
+                        
+                    Los capos colombianos que reclutó el FBI para acorralar a El Chapo Guzmán
+
+                
+            
+                    
+                        
+                        
+                    El frío testimonio de Chupeta, el narco que cambió su cara y compromete a El Chapo
+
+                
+            
+
+    
+
+
+                        
+                    
+                
+                         
+ 
+ (adsbygoogle = window.adsbygoogle || []).push({}); 
+            
+                                                    
+            
+                                                                                                                                    
+                                                                                                    
+                                                
+    Tags Relacionados:
+                        Cartel de Sinaloa
+                    El Chapo Guzmán
+                    Nueva York
+            
+
+
+  
+  ¡Muchas gracias por registrarte!
+  
+  Recibe nuestro Newsletter diariamente registrándote con tu email y mantente informado con las noticias más relevantes del día.
+  
+    
+      
+
+    
+      Suscríbete
+    
+    
+      
+        Acepto los 
+          Términos y condiciones y 
+          Políticas de privacidad
+      
+      Campo requerido
+    
+  
+
+
+                            
+                                                                                                                                                                            
+                                        
+                            eplAD4M(""Middle"", ""m"");
+                                                            
+                    eplAD4M(""Outbrain"", ""d"");
+                    eplAD4M(""Outbrain"", ""m"");
+                    eplAD4M(""Publi"", ""m"");
+                    
+                                                                    
+                                                                    
+
+                Leer comentarios  ()
+
+
+path_appc='https://comments.ecoid.pe/';
+
+
+                            
+                                        
+            
+Anuncios de interés
+
+
+
+Recomendado por:
+
+
+                                                
+                    
+                            
+                            eplAD4M(""Inferior"", ""m"");
+                                                                                                                        
+                                                                                                            
+                    eplAD4M(""Middle1"", ""m"");eplAD4M(""Middle2"", ""m"");
+        .perured-header, .perured-footer, #cnt-perured-m, #cnt-perured-d{
+            max-width: 300px;
+            margin: 0 auto;
+        }
+        .eplAdBox_header {
+            border-bottom: #084B9E 2px solid;
+            color: #252525;
+            font-size: 15px;
+            font-family: 'Arial', sans-serif;
+            font-weight: bold;
+            text-align: left;
+            margin-bottom: 0px;
+        }
+        .eplAdBox_footerDiv{
+            height: auto;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        .eplAdBox_footerText, .v_eplAdBox_footerText {
+            font-weight: bold;
+            color: #4C4C4C;
+            font: 12px 'Arial', sans-serif;
+            height: 20px;
+            letter-spacing: 0px;
+            margin: 0px;
+        }
+        .eplAdBox_divFooterIcon {
+            padding-left: 10px;
+        }
+
+        .eplAdBox_divFooterIcon > img {
+            width: 17px;
+            height: 17px;
+        }
+    Anuncios de interésRecomendado por:
+        
+
+
+
+    
+
+#ads-desktop-fotogaleria_1 {
+display:block !important
+}
+@media screen and (max-width: 1400px)
+
+{
+body.fotogaleria .news-detail .full-width {
+   width: 100%;
+   margin-left: 0;
+}
+}
+
+ function googleRecommended(name) {var opt = (window.location.href.split(name + '=')[1] || '').split('&')[0];if( opt != undefined && opt == 'gmc'){document.getElementsByClassName('el-comercio mod-recommended')[0].style.display = ""none"";}else{document.getElementsByClassName('el-comercio google-recommended')[0].style.display = ""none"";}} googleRecommended('opt'); 
+
+Las más leídas
+    
+                        
+    
+            
+            
+                
+        
+            
+                                                                                
+        
+            
+            
+        
+    
+     
+            
+        
+
+    
+            
+                                                
+                                                
+                                                
+        
+                    
+            
+
+                                                                                                    Edwin Oviedo fue detenido de forma preliminar por caso Los Cuellos Blancos del Puerto
+    
+
+                                                        
+                                                            
+        
+            
+                
+                    
+                
+            
+            
+                
+                    
+                
+            
+        
+    
+
+                            
+
+            
+
+
+        
+            
+            
+    
+        
+            
+                                                                                
+        
+            
+            
+        
+    
+     
+            
+        
+
+    
+            
+                                                
+                                                
+                                                
+        
+                    
+            
+
+                                                                                                    7 de los bares temáticos más geniales de Lima
+    
+
+                                                        
+                                                            
+        
+            
+                
+                    
+                
+            
+            
+                
+                    
+                
+            
+        
+    
+
+                            
+
+            
+
+
+        
+            
+            
+    
+        
+            
+                                                                                
+        
+            
+            
+        
+    
+     
+            
+        
+
+    
+            
+                                                
+                                                
+                                                
+        
+                    
+            
+
+                                                                                                    Diez de las mejores heladerías de Lima
+    
+
+                                                        
+                                                            
+        
+            
+                
+                    
+                
+            
+            
+                
+                    
+                
+            
+        
+    
+
+                            
+
+            
+
+
+        
+            
+            
+    
+        
+                
+        
+                                                                                
+        
+            
+            
+        
+    
+     
+            
+        
+
+    
+            
+                                                
+                                                
+                                                
+        
+                    
+            
+
+                                                                                                    Las portadas en el mundo sobre la detención de Edwin Oviedo | FOTOS
+    
+
+                                                        
+                                                            
+        
+            
+                
+                    
+                
+            
+            
+                
+                    
+                
+            
+        
+    
+
+                            
+
+            
+
+
+        
+            
+            
+    
+        
+            
+                                                                                
+        
+            
+            
+        
+    
+     
+            
+        
+
+    
+            
+                                                
+                                                
+                                                
+        
+                    
+            
+
+                                                                                                    Estos son todos los animes que se estrenarán en el 2019
+    
+
+                                                        
+                                                            
+        
+            
+                
+                    
+                
+            
+            
+                
+                    
+                
+            
+        
+    
+
+                            
+
+            
+
+
+        
+    
+
+    
+
+        
+
+
+
+    
+.sidebar .ads-right #ads-desktop-publijalador {display:none!important;}
+
+
+
+@media screen and (max-width: 1600px){ body.nota .ads-zocalo1 {margin-left: -148px;} }
+@media screen and (max-width: 813px) {
+ body.nota .site-header .ui-fixed .news-share-follow {
+   width: 50%;
+ }
+}
+
+
+document.querySelector(""body"").classList.add(""tc"");
+
+
+eplAD4M(""Right3"", ""d"");
+        
+
+
+
+    
+
+
+body.infografia .news-detail .full-width .news-media img {
+     display: block !important; 
+}
+body.infografia .news-detail .full-width .news-media .small .image img {
+    display: none !important;
+}
+#eplAdDivInlinePrg {  display:inline;}
+#ads-movil-daily {display:none!important;}
+@media screen and (max-width: 1600px) {
+    body.nota .wrapper {
+        max-width: 1024px;
+    } }
+.ads-zocalo1, .ads-zocalo2 { height: auto; }
+body.tc .ads-zocalo2{margin-left:1002px!important}
+#ads-desktop-right1 { position: relative;
+ z-index: 99; }
+
+
+var urlmundial = window.location.href;
+if(urlmundial.search(""elcomercio.pe/mundial/"")>=0) document.body.classList.add(""rusia2018"");
+
+
+eplAD4M(""Inferior"", ""m"");
+dataLayer.push({
+'event': 'notafin'
+});
+
+
+  
+    
+      
+      
+        
+          Términos y condiciones de uso
+          Trabaja para grupo el comercio
+          Libro de reclamaciones
+          Oficinas concesionarias
+        
+      
+    
+    
+      
+        
+          Jr. Santa Rosa #300 Lima 1 Perú
+          DIRECTOR GENERAL:
+          Francisco Miró Quesada Cantuarias
+          DIRECTOR PERIODÍSTICO:
+          Juan José Garrido Koechlin
+        
+      
+      Red El Comercio
+        
+          peru21.pe
+          peru.com
+          gestion.pe
+          depor.com
+          trome.pe
+          aptitus.com
+          neoauto.com
+          urbania.pe
+          publimetro.pe
+          laprensa.pe
+          gec.pe
+          Club El Comercio
+          perured.pe
+          sepp.pe
+          clasificados.pe
+          pagoefectivo.pe
+          avansys.edu.pe
+          maseducacion.com
+          lumingo
+          comercio xpress
+      
+      
+      
+        
+          Suscripciones:suscriptores@comercio.com.pe
+          Publicidad:fonoavisos@comercio.com.pe 
+          Club El Comercio:clubelcomercio@comercio.com.pe
+        
+      
+    
+    
+      
+        © Empresa Editora El Comercio - Copyright © Elcomercio.pe - Grupo El Comercio - Todos los derechos reservados.
+      
+      
+        Miembro de Grupo de Diarios América
+      
+    
+  
+
+
+
+
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.sections = ""mundo, eeuu, mundo, mexico, cartel-de-sinaloa, el-chapo-guzman, nueva-york"";
+
+            _sf_async_config.authors = ""Redacción EC"";
+    
+            _sf_async_config.type = ""Articulo Nota Simple"";
+        _sf_async_config.contentType = ""Articulo Nota Simple"";
+        var metaTypeNota = document.querySelector('meta[name=typeNota]');
+
+        if (metaTypeNota)
+            _sf_async_config.type = metaTypeNota.content;
+    
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+
+    })();
+
+        window.addEventListener(""load"", function(event) {
+        var contNewsletter = document.querySelector('#suscription-form');
+        if(contNewsletter){
+            contNewsletter.style.display = ""block"";
+        }
+        });
+    
+    .mod-nl-suscription>p.error{
+        color: #FF0000;
+        font-weight: 700;
+        padding-top: 10px;
+    }
+
+    .frm-suscription .ui-row.ui-error input{
+        border: 1px solid #FF0000;
+    }
+
+    .frm-suscription .ui-message-error{
+        color: #FF0000;
+        font: 13px arial;
+        margin: 5px 0 10px 0;
+    }
+    SubirIr aúltimas noticiasFotogaleríasIr a portada
+        new fixedAds({
+            container: 'aside',
+            fixToElement: document.querySelector( "".header-fixed"" ),
+            fixHeight: 20,
+            stopToElement: document.querySelector( "".flows-grid"")
+        })
+    "
