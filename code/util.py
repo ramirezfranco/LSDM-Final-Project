@@ -66,9 +66,11 @@ def news_dict_of_dict(responses):
     news_collection = {}
     count = 0
     for response in responses:
-        for article in response ['articles']:
-            news_collection[count] = article
-            count =+1
+        if 'articles' in response.keys():
+            for article in response ['articles']:
+                news_collection[count] = article
+                count +=1
+                print(count)
     return news_collection
     
 def similarity_score(dict1,dict2):
@@ -81,14 +83,54 @@ def similarity_score(dict1,dict2):
     score_3 = fuzz.token_set_ratio(dict1['content'], dict2['content'])
     return 0.4*score_1 + 0.3*score_2 + 0.3*score_3
 
+# def compare_similarity(d):
+#     start = 0
+#     size = len(d)
+#     t = 80
+#     for k, v in d.items():
+#         for key in range(start + 1, size):
+#             if d[key]['unique'] == 1:
+#                 s = similarity_score(d[start], d[key])
+#                 if s > t:
+#                     d[key]['unique'] = 0
+#         start += 1
+
 def compare_similarity(d):
-    start = 0
+
     size = len(d)
     t = 80
-    for k, v in d.items():
+    for start in range(size):
+        temp = []
         for key in range(start + 1, size):
             if d[key]['unique'] == 1:
                 s = similarity_score(d[start], d[key])
                 if s > t:
-                    d[key]['unique'] = 0
-        start += 1
+                    temp.append(key)
+        for index in temp:
+            d[index]['unique'] = 0
+from nltk.corpus import stopwords
+
+def clean_sentence(sentence):
+    '''
+    Removes unknown characters or unknown words, change capital to lower letters and remove
+    english stop words
+    Inputs:
+    sentence (string): a sting to be cleaned
+    Returns: a string
+    '''
+    new = ''
+    for l in sentence:
+        if re.match('[a-zA-Z0-9_\s]',l):
+            new += l
+
+    tokens = nltk.word_tokenize(new)
+    tokens = [t.lower() for t in tokens]
+
+    new_tokens = []
+    imp_words = set(stopwords.words('spanish'))
+    for t in tokens:
+        if t in imp_words:
+            new_tokens.append(t)
+
+    return ' '.join(new_tokens)
+        
