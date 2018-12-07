@@ -85,10 +85,13 @@ def compare_similarity(d):
     start = 0
     size = len(d)
     t = 80
-    for k, v in d.items():
-        for key in range(start + 1, size):
-            if d[key]['unique'] == 1:
-                s = similarity_score(d[start], d[key])
-                if s > t:
-                    d[key]['unique'] = 0
-        start += 1
+    for start in range(:size):
+    	temp = []
+	    for key in range(start + 1, size):
+	        if d[key]['unique'] == 1:
+	            s = similarity_score(d[start], d[key])
+	            if s > t:
+	            	temp.append(key)
+	    for index in temp:
+	    	d[index]['unique'] = 0
+        
