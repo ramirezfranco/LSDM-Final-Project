@@ -17,7 +17,7 @@ cities = list(set(zm_mex['MUN']))
 
 keywords = util.build_keywords_list(cities, crimes)
 
-url_requests = [util.build_url(k, '2018-12-03T00:00:00', '2018-12-03T23:59:59') for k in keywords][:5]
+url_requests = [util.build_url(k, '2018-12-03T00:00:00', '2018-12-03T23:59:59') for k in keywords][:10]
 
 
 def put_in_queue(inputs_list, q):
@@ -55,8 +55,8 @@ if __name__ == '__main__':
 	p2.join()
 	p3.join()
 
-	print(list_with_news)
-d = news_dict_of_dict(list_with_news)
+	#print(list_with_news)
+d = util.news_dict_of_dict(list_with_news)
 for k, v in d.items():
 	v['unique'] = 1
 
@@ -64,14 +64,16 @@ util.compare_similarity(d)
 list_of_links = util.get_values(d,'url')
 
 def get_content(myurl):
-	soup = util.make_soup()
+	soup = util.make_soup(myurl)
 	text = text = soup.getText()
 	return text
 
 
 if __name__ == '__main__':
     p = mp.Pool(3)
-    p.map_async(get_content, list_of_links[, chunksize=len(list_of_links)/3])
-    
+    result = p.map_async(get_content, list_of_links ) 
     p.close()
     p.join()
+    
+list_of_texts = result.get()
+print(list_of_texts)
