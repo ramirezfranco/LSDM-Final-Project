@@ -10,6 +10,8 @@ from nltk.corpus import words
 from nltk.corpus import stopwords
 import math
 from pycorenlp import StanfordCoreNLP
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 news_api_key = 'a0849f217c5d4628a7350ce96868c85d'
 crimes = ['homicidio', 'asesinato', 'ejecucion',
@@ -41,8 +43,8 @@ def get_news_json(myurl):
 	r = http.request('GET', myurl)
 	return json.loads(r.data.decode('utf-8'))
 
-def get_json_values(json_object, key):
-	return [article[key] for article in json_object['articles']]
+def get_values(dictionary, key):
+	return [article[key] for article in dictionary.values() if article['unique']==1]
 
 def text_from_url(url, content):
 	soup = make_soup(url)
@@ -51,6 +53,24 @@ def text_from_url(url, content):
 	index_text = lens.index(max(lens))
 	return all_text[index_text]
 
+def news_dict_of_dict(responses):
+    '''Creates a dictionary of dictionaries where the key
+    is a unique ID for each news, and the value is a dictionary with the contents
+    of the news
+    input: responses (list) 
+           it's the output from the requests. Each element of this list is a dictionary with one or many
+           news
+    output: a new dictionary with an id for each news
+    
+           '''
+    news_collection = {}
+    count = 0
+    for response in responses:
+        for article in response ['articles']:
+            news_collection[count] = article
+            count =+1
+    return news_collection
+    
 def similarity_score(dict1,dict2):
     '''Returns a similarity score to test if two strings
     in two 'different' news are in reality the same
