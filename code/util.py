@@ -80,3 +80,15 @@ def similarity_score(dict1,dict2):
     score_2 = fuzz.token_set_ratio(dict1['description'], dict2['description'])
     score_3 = fuzz.token_set_ratio(dict1['content'], dict2['content'])
     return 0.4*score_1 + 0.3*score_2 + 0.3*score_3
+
+def compare_similarity(d):
+    start = 0
+    size = len(d)
+    t = 80
+    for k, v in d.items():
+        for key in range(start + 1, size):
+            if d[key]['unique'] == 1:
+                s = util.similarity_score(d[start], d[key])
+                if s > t:
+                    d[key]['unique'] = 0
+        start += 1
