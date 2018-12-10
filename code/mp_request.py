@@ -58,15 +58,27 @@ if __name__ == '__main__':
 	#print(list_with_news)
 d = util.news_dict_of_dict(list_with_news)
 for k, v in d.items():
-	v['unique'] = 1
+	v['entitymentions'] = None
+    v['relevant'] = 0
 
-util.compare_similarity(d)
-list_of_links = util.get_values(d,'url')
+#util.compare_similarity(d)
+#list_of_links = util.get_values(d,'url')
 
-def get_content(myurl):
-	soup = util.make_soup(myurl)
-	text = text = soup.getText()
-	return text
+def get_content(article_dict, results_mg):
+    '''
+    populate articles dictionaries with contente, entity mentions 
+    and relevance classification.
+    Inputs:
+    -article_dict(dictionary): dictionary with articles from 
+     news API responses
+    -results (mp.manager dictionary object): dictionary to store 
+     the results
+    returns mp.manager dictionary object with updated results.
+    '''
+    article_dict['content'] = util.get_text_news(article_dict['url'])
+    article_dict['entitymentions'] = util.get_entity_tup(get_entities(article_dict['content']))
+    article_dict['relevant'] = is_relevant(article_dict['entitymentions'], relevant_words)
+    return article_dict
 
 
 if __name__ == '__main__':
