@@ -17,7 +17,7 @@ cities = list(set(zm_mex['MUN']))
 
 keywords = util.build_keywords_list(cities, crimes)
 
-url_requests = [util.build_url(k, '2018-12-10T00:00:00', '2018-12-09T23:59:59') for k in keywords][:10]
+url_requests = [util.build_url(k, '2018-12-05T00:00:00', '2018-12-10T23:59:59') for k in keywords][:10]
 
 
 def put_in_queue(inputs_list, q):
@@ -56,15 +56,10 @@ if __name__ == '__main__':
 	p3.join()
 
 	print(list_with_news)
-d = util.news_dict_of_dict(list_with_news)
-for k, v in d.items():
-    v['entitymentions'] = None
-    v['relevant'] = 0
+    
+l = util.news_dict_of_dict(list_with_news)
 
-#util.compare_similarity(d)
-list_of_links = util.get_values(d,'url')
-
-def get_content(article_dict):
+def get_content(article):
     '''
     populate articles dictionaries with content, entity mentions 
     and relevance classification.
@@ -75,33 +70,22 @@ def get_content(article_dict):
      the results
     returns mp.manager dictionary object with updated results.
     '''
-    article_dict['content'] = util.get_text_news(article_dict['url'])
-    article_dict['entitymentions'] = util.get_entity_tup(get_entities(article_dict['content']))
-    article_dict['relevant'] = is_relevant(article_dict['entitymentions'], relevant_words)
-    return article_dict
+    article['content'] = util.get_text_news(article['url'])
+    article['entitymentions'] = util.get_entity_tup(get_entities(article['content']))
+    article['relevant'] = is_relevant(article['entitymentions'], relevant_words)
+    return article
 
 
 if __name__ == '__main__':
-#     p = mp.Pool(3)
-#     result = p.map_async(get_content, list_of_links )
-#     p.close()
-#     p.join()
+    p = mp.Pool(3)
+    result = p.map_async(get_content, list_of_links)
+    p.close()
+    p.join()
     
+print(result.get())
 #     dictionary = manager.dict()
 #     p = mp.Pool(3)
 #     dictionary = p.map_async(get_content,list_of_links)
 #     p.close()
 #     p.join()
 
-    #result= dictionary
-
-# list_of_texts = result.get()
-    #print(dictionary)
-    from collections import Counter
-    from multiprocessing import Pool
-    NUM_PROCESSES = 8
-## map
-    partial_counters = Pool(NUM_PROCESSES).map(Counter, get_content(list_of_links))
-
-## reduce
-    reduced_counter = reduce(Counter.__add__, partial_counters)
