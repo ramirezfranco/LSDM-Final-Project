@@ -17,7 +17,7 @@ cities = list(set(zm_mex['MUN']))
 
 keywords = util.build_keywords_list(cities, crimes)
 
-url_requests = [util.build_url(k, '2018-12-03T00:00:00', '2018-12-03T23:59:59') for k in keywords][:10]
+url_requests = [util.build_url(k, '2018-12-10T00:00:00', '2018-12-09T23:59:59') for k in keywords][:10]
 
 
 def put_in_queue(inputs_list, q):
@@ -55,18 +55,18 @@ if __name__ == '__main__':
 	p2.join()
 	p3.join()
 
-	#print(list_with_news)
+	print(list_with_news)
 d = util.news_dict_of_dict(list_with_news)
 for k, v in d.items():
-	v['entitymentions'] = None
+    v['entitymentions'] = None
     v['relevant'] = 0
 
 #util.compare_similarity(d)
-#list_of_links = util.get_values(d,'url')
+list_of_links = util.get_values(d,'url')
 
-def get_content(article_dict, results_mg):
+def get_content(article_dict):
     '''
-    populate articles dictionaries with contente, entity mentions 
+    populate articles dictionaries with content, entity mentions 
     and relevance classification.
     Inputs:
     -article_dict(dictionary): dictionary with articles from 
@@ -82,10 +82,26 @@ def get_content(article_dict, results_mg):
 
 
 if __name__ == '__main__':
-    p = mp.Pool(3)
-    result = p.map_async(get_content, list_of_links ) 
-    p.close()
-    p.join()
+#     p = mp.Pool(3)
+#     result = p.map_async(get_content, list_of_links )
+#     p.close()
+#     p.join()
     
-list_of_texts = result.get()
-print(list_of_texts)
+#     dictionary = manager.dict()
+#     p = mp.Pool(3)
+#     dictionary = p.map_async(get_content,list_of_links)
+#     p.close()
+#     p.join()
+
+    #result= dictionary
+
+# list_of_texts = result.get()
+    #print(dictionary)
+    from collections import Counter
+    from multiprocessing import Pool
+    NUM_PROCESSES = 8
+## map
+    partial_counters = Pool(NUM_PROCESSES).map(Counter, get_content(list_of_links))
+
+## reduce
+    reduced_counter = reduce(Counter.__add__, partial_counters)
