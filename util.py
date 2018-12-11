@@ -14,9 +14,9 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 from nltk.stem.snowball import SnowballStemmer
 
-
+nlp = StanfordCoreNLP('http://localhots:9000')
 stemmer = SnowballStemmer("spanish")
-news_api_keys = ['a0849f217c5d4628a7350ce96868c85d', '']
+news_api_key = 'a0849f217c5d4628a7350ce96868c85d'
 
 
 def make_soup(myurl):
@@ -77,8 +77,8 @@ def get_news_json(myurl):
 	r = http.request('GET', myurl)
 	return json.loads(r.data.decode('utf-8'))
 
-def get_values(dictionary, key):
-	return [article[key] for article in dictionary.values() if article['unique']==1]
+def get_values(articles_list, key):
+	return [article[key] for article in articles_list]
 
 def text_from_url(url, content):
 	soup = make_soup(url)
@@ -97,11 +97,11 @@ def news_dict_of_dict(responses):
     output: a new dictionary with an id for each news
     
            '''
-    news_collection = {}
+    news_collection = []
     for response in responses:
         if 'articles' in response.keys():
             for article in response['articles']:
-                news_collection[article['url']] = article
+                news_collection.append(article)
     return news_collection
     
 def similarity_score(dict1,dict2):
@@ -130,18 +130,6 @@ def compare_similarity(d):
 
     size = len(d)
     t = 80
-<<<<<<< HEAD
-    for start in range(:size):
-    	temp = []
-	    for key in range(start + 1, size):
-	        if d[key]['unique'] == 1:
-	            s = similarity_score(d[start], d[key])
-	            if s > t:
-	            	temp.append(key)
-	    for index in temp:
-	    	d[index]['unique'] = 0
-        
-=======
     for start in range(size):
         temp = []
         for key in range(start + 1, size):
@@ -176,5 +164,3 @@ def clean_sentence(sentence):
             new_tokens.append(t)
 
     return ' '.join(new_tokens)
-        
->>>>>>> upstream/master
